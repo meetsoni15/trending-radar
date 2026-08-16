@@ -1,5 +1,10 @@
 # 📡 Weekly Trending Radar
 
+[![Weekly Trending Update](https://github.com/meetsoni15/trending-radar/actions/workflows/weekly-update.yml/badge.svg)](https://github.com/meetsoni15/trending-radar/actions/workflows/weekly-update.yml)
+[![Go Report Card](https://goreportcard.com/badge/github.com/meetsoni15/trending-radar)](https://goreportcard.com/report/github.com/meetsoni15/trending-radar)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/meetsoni15/trending-radar)](https://github.com/meetsoni15/trending-radar/commits/main)
+
 A self-updating list of new and trending GitHub repos, refreshed **every Monday** by a GitHub Action. No manual curation required — it pulls straight from the GitHub Search API.
 
 Categories tracked:
@@ -109,3 +114,9 @@ _Last updated: **2026-08-16** (UTC) · repos created in the last 7 days_
 go run ./scripts/update_trending.go
 ```
 Set a `GITHUB_TOKEN` env var to avoid GitHub's low unauthenticated search rate limit (10 req/min vs 30 req/min).
+
+### Contributing
+Got a category you want tracked (Rust, mobile, data/ML, whatever)? Open an issue or a PR adding it to `categories` in [scripts/update_trending.go](scripts/update_trending.go) — happy to merge good suggestions.
+
+### Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=meetsoni15/trending-radar&type=Date)](https://star-history.com/#meetsoni15/trending-radar&Date)
