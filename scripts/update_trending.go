@@ -26,15 +26,19 @@ const (
 )
 
 // Each category is a list of GitHub topic slugs; results across topics are merged & deduped.
+// RequireLanguage, if set, drops results whose primary language doesn't match
+// (topics like "go" get attached to repos that merely embed a Go component,
+// e.g. an Electron app with a Go backend, so topic search alone isn't enough).
 var categories = []struct {
-	Label  string
-	Topics []string
+	Label           string
+	Topics          []string
+	RequireLanguage string
 }{
-	{"🤖 AI Agents & LLM Tools", []string{"ai-agents", "llm-agents", "agentic-ai"}},
-	{"🛡️ Security, Hacking & Pentesting", []string{"pentesting", "security-tools", "ai-security", "hacking", "cybersecurity", "ctf"}},
-	{"🐹 Go Projects", []string{"golang", "go"}},
-	{"🛠️ Developer Tools & CLI", []string{"developer-tools", "cli"}},
-	{"⚙️ DevOps & Infrastructure", []string{"devops", "infrastructure-as-code"}},
+	{"🤖 AI Agents & LLM Tools", []string{"ai-agents", "llm-agents", "agentic-ai"}, ""},
+	{"🛡️ Security, Hacking & Pentesting", []string{"pentesting", "security-tools", "ai-security", "hacking", "cybersecurity", "ctf"}, ""},
+	{"🐹 Go Projects", []string{"golang", "go"}, "Go"},
+	{"🛠️ Developer Tools & CLI", []string{"developer-tools", "cli"}, ""},
+	{"⚙️ DevOps & Infrastructure", []string{"devops", "infrastructure-as-code"}, ""},
 }
 
 type repo struct {
@@ -106,7 +110,7 @@ func sinceDate() string {
 	return time.Now().AddDate(0, 0, -lookbackDays).Format("2006-01-02")
 }
 
-func fetchCategory(topics []string) []repo {
+func fetchCategory(topics []string, requireLanguage string) []repo {
 	seen := map[string]repo{}
 	for _, topic := range topics {
 		query := fmt.Sprintf("topic:%s created:>%s", topic, sinceDate())
@@ -115,6 +119,9 @@ func fetchCategory(topics []string) []repo {
 			fmt.Printf("  warn: query failed for topic=%s: %v\n", topic, err)
 		}
 		for _, r := range repos {
+			if requireLanguage != "" && r.Language != requireLanguage {
+				continue
+			}
 			seen[r.FullName] = r
 		}
 		time.Sleep(2 * time.Second) // stay under search rate limits
@@ -190,7 +197,7 @@ func buildSection() string {
 	for _, c := range categories {
 		fmt.Printf("Fetching category: %s\n", c.Label)
 		fmt.Fprintf(&b, "\n## %s\n\n", c.Label)
-		b.WriteString(renderTable(fetchCategory(c.Topics)))
+		b.WriteString(renderTable(fetchCategory(c.Topics, c.RequireLanguage)))
 	}
 	return b.String()
 }
