@@ -1,0 +1,2 @@
+# stdlib-only script (urllib) — no external dependencies required.
+# Kept for future use if the script grows to need `requests` etc.
