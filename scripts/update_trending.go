@@ -31,7 +31,8 @@ var categories = []struct {
 	Topics []string
 }{
 	{"🤖 AI Agents & LLM Tools", []string{"ai-agents", "llm-agents", "agentic-ai"}},
-	{"🛡️ Security & Pentesting", []string{"pentesting", "security-tools", "ai-security"}},
+	{"🛡️ Security, Hacking & Pentesting", []string{"pentesting", "security-tools", "ai-security", "hacking", "cybersecurity", "ctf"}},
+	{"🐹 Go Projects", []string{"golang", "go"}},
 	{"🛠️ Developer Tools & CLI", []string{"developer-tools", "cli"}},
 	{"⚙️ DevOps & Infrastructure", []string{"devops", "infrastructure-as-code"}},
 }

@@ -4,7 +4,8 @@ A self-updating list of new and trending GitHub repos, refreshed **every Monday*
 
 Categories tracked:
 - 🤖 AI Agents & LLM Tools
-- 🛡️ Security & Pentesting
+- 🛡️ Security, Hacking & Pentesting
+- 🐹 Go Projects
 - 🛠️ Developer Tools & CLI
 - ⚙️ DevOps & Infrastructure
 - 🔥 New This Week (overall)
@@ -18,13 +19,13 @@ _Last updated: **2026-08-16** (UTC) · repos created in the last 7 days_
 
 | Repo | ⭐ Stars | Language | Description |
 |---|---|---|---|
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 119,492 | TypeScript | DeepSeek Harness: Everything is a Plugin. |
-| [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) | 9,980 | Python | Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA... |
-| [anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) | 6,830 | TypeScript | 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案 |
-| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 3,366 | Python | A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表 |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 119,543 | TypeScript | DeepSeek Harness: Everything is a Plugin. |
+| [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) | 9,981 | Python | Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA... |
+| [anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) | 6,841 | TypeScript | 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案 |
+| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 3,372 | Python | A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表 |
 | [zhu1090093659/dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) | 2,891 | TypeScript | Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side ... |
-| [xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard) | 2,442 | JavaScript | Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 ... |
-| [yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite) | 2,062 | PowerShell | dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the ... |
+| [xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard) | 2,447 | JavaScript | Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 ... |
+| [yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite) | 2,067 | PowerShell | dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the ... |
 | [SMNETSTUDIO/WeChat-AI](https://github.com/SMNETSTUDIO/WeChat-AI) | 1,744 | TypeScript |  |
 | [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts) | 1,684 | C | Unlocking _everything_ on the CPU with DRAM scrambling |
 | [cordiverse/paper](https://github.com/cordiverse/paper) | 1,678 | — | A Programming Paradigm for Spatiotemporal Composability |
@@ -33,16 +34,16 @@ _Last updated: **2026-08-16** (UTC) · repos created in the last 7 days_
 
 | Repo | ⭐ Stars | Language | Description |
 |---|---|---|---|
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 119,492 | TypeScript | DeepSeek Harness: Everything is a Plugin. |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 119,543 | TypeScript | DeepSeek Harness: Everything is a Plugin. |
 | [Leutenegger/book-to-skill](https://github.com/Leutenegger/book-to-skill) | 1,132 | Python | Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while y... |
 | [0xsline/awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness) | 522 | Python | DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hu... |
 | [elie222/rakazo](https://github.com/elie222/rakazo) | 499 | TypeScript | Open-source Grok Bot alternative. Choose your own model and sandbox. |
 | [decionis/agent-safe-pipeline](https://github.com/decionis/agent-safe-pipeline) | 459 | TypeScript | Reference architecture for AI agents that propose actions but cannot authorize them — immutable i... |
 | [lexmount/moli](https://github.com/lexmount/moli) | 355 | Rust | Best browser for AI agents, built in Rust. |
-| [dataelement/dsh-desktop](https://github.com/dataelement/dsh-desktop) | 346 | TypeScript | Desktop app for DeepSeek Harness |
+| [dataelement/dsh-desktop](https://github.com/dataelement/dsh-desktop) | 348 | TypeScript | Desktop app for DeepSeek Harness |
 | [Electricitysheep/dsh-handbook](https://github.com/Electricitysheep/dsh-handbook) | 309 | HTML | DeepSeek Harness (dsh) 从 0 到 1 深度手册：安装/插件开发/性能调优/实测案例/同模型多 Agent 实测对比（中文 + 英文 PDF） |
 
-## 🛡️ Security & Pentesting
+## 🛡️ Security, Hacking & Pentesting
 
 | Repo | ⭐ Stars | Language | Description |
 |---|---|---|---|
@@ -51,22 +52,35 @@ _Last updated: **2026-08-16** (UTC) · repos created in the last 7 days_
 | [warpedatom/NoiseHound](https://github.com/warpedatom/NoiseHound) | 53 | Python | Detection-aware BloodHound attack-path scoring - find the quietest route to your objective, calib... |
 | [voyb/aegis-vault](https://github.com/voyb/aegis-vault) | 51 | HTML | Offline password, identity, and secret vault. Argon2id + AES-256-GCM, zero servers, zero telemetry. |
 | [sunhao123456sun-svg/toolpermit](https://github.com/sunhao123456sun-svg/toolpermit) | 25 | Python | A local-first permission firewall and approval layer for AI agent tool calls. |
+| [ahmetgulerpy/ag-cyber-lab](https://github.com/ahmetgulerpy/ag-cyber-lab) | 21 | TypeScript | Open-source practical cybersecurity learning platform with structured lessons, guided labs, progr... |
+| [dhicoc/dsh-reverse-skill](https://github.com/dhicoc/dsh-reverse-skill) | 18 | PowerShell | Complete reverse-skill (85 SKILL.md) as a DeepSeek Harness (dsh) Cordis plugin — reverse engineer... |
 | [navinspire-ai/navin](https://github.com/navinspire-ai/navin) | 14 | — | Navin - free local AI workspace for agentic coding, scraping, notes, meetings, SEO, leads, market... |
-| [Aivist/Aivist-Verify](https://github.com/Aivist/Aivist-Verify) | 12 | Python | A BOLA/IDOR access-control confirmation engine — code adjudicates every verdict, not just the mod... |
-| [shanduzgil/nexus-redfox](https://github.com/shanduzgil/nexus-redfox) | 11 | Python | NEXUS REDFOX — Local-first code intelligence and security analysis platform for developers and se... |
+
+## 🐹 Go Projects
+
+| Repo | ⭐ Stars | Language | Description |
+|---|---|---|---|
+| [zepto-labs/scherry](https://github.com/zepto-labs/scherry) | 85 | Go | Split it. Ship it. Track it - Because every big job deserves a little scherry on top :cherries: |
+| [elevityadmin/trilli](https://github.com/elevityadmin/trilli) | 49 | TypeScript | Trilli — open-source self-hosted cloud storage, collaboration & e-signature platform. One Go bina... |
+| [kunmi02/git-declutter](https://github.com/kunmi02/git-declutter) | 17 | Go | GitDeclutter — safely analyze and clean stale local Git branches. Classifies branches as SAFE, RE... |
+| [MawCeron/justwrite](https://github.com/MawCeron/justwrite) | 10 | Go | A distraction-free terminal text editor for prose — a centred page, one status line, and everythi... |
+| [alpha-omega-security/hyrum](https://github.com/alpha-omega-security/hyrum) | 8 | Go | Generate hermetic tests that capture how a repository uses each of its dependencies. Built on git... |
+| [srt149-dot/ishadrive](https://github.com/srt149-dot/ishadrive) | 8 | Go |  |
+| [Role1776/mcp-retrieval](https://github.com/Role1776/mcp-retrieval) | 6 | Go | Fast, idiomatic Go MCP server for web search, image search, and page scraping to Markdown. Runs l... |
+| [luminousott/EchOS-Win](https://github.com/luminousott/EchOS-Win) | 5 | JavaScript | 基于 ECH(Encrypted Client Hello) 的加密代理客户端（Windows 版）｜Go 内核 + Electron 界面｜由 nerder-real/EchOS（macOS ... |
 
 ## 🛠️ Developer Tools & CLI
 
 | Repo | ⭐ Stars | Language | Description |
 |---|---|---|---|
 | [0xsline/awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness) | 522 | Python | DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hu... |
-| [xyiqq/skilldoctor](https://github.com/xyiqq/skilldoctor) | 259 | TypeScript | Quality gate for Agent Skills: lint, security audit, and Claude/Cursor/Codex/OpenCode compatibility. |
+| [xyiqq/skilldoctor](https://github.com/xyiqq/skilldoctor) | 261 | TypeScript | Quality gate for Agent Skills: lint, security audit, and Claude/Cursor/Codex/OpenCode compatibility. |
 | [icesixgod/codex-trajectory](https://github.com/icesixgod/codex-trajectory) | 142 | Python | Privacy-aware trajectory viewer for local Codex task logs |
 | [soumatheusgomes/vibe-coding-toolkit](https://github.com/soumatheusgomes/vibe-coding-toolkit) | 130 | — | A curated, battle-tested AI-coding toolkit: Claude Code plugins, subagent orchestration, quality ... |
 | [lennney/stop-that-shit](https://github.com/lennney/stop-that-shit) | 114 | JavaScript | Keep Codex from adding unneeded modules, subagents, dependencies, and hashes to small tasks. |
 | [vuphongle/oss-pr-reviewer](https://github.com/vuphongle/oss-pr-reviewer) | 106 | TypeScript | AI-powered CLI for reviewing GitHub pull requests, detecting potential bugs, security risks, regr... |
 | [phungkaizen/maintainer-autopilot](https://github.com/phungkaizen/maintainer-autopilot) | 102 | JavaScript | Local-first, resumable AI maintenance pipelines with single-writer safety and deterministic verif... |
-| [seyedehsanhadi/sloptrim](https://github.com/seyedehsanhadi/sloptrim) | 98 | Python | A local detector for AI-writing patterns. Scores every prose file your agent saves. Python standa... |
+| [seyedehsanhadi/sloptrim](https://github.com/seyedehsanhadi/sloptrim) | 100 | Python | A local detector for AI-writing patterns. Scores every prose file your agent saves. Python standa... |
 
 ## ⚙️ DevOps & Infrastructure
 
@@ -75,11 +89,11 @@ _Last updated: **2026-08-16** (UTC) · repos created in the last 7 days_
 | [kunmi02/git-declutter](https://github.com/kunmi02/git-declutter) | 17 | Go | GitDeclutter — safely analyze and clean stale local Git branches. Classifies branches as SAFE, RE... |
 | [MarinJursic/production-readiness-checklist](https://github.com/MarinJursic/production-readiness-checklist) | 15 | Python | Evidence-driven production readiness checklist for shipping web applications with confidence |
 | [muhdusama/Software-Release-Radar](https://github.com/muhdusama/Software-Release-Radar) | 10 | Python | Self-hosted release and deployment intelligence for tracking upstream software, deployed versions... |
-| [itsnikan/Telegram-Cloud-Manager](https://github.com/itsnikan/Telegram-Cloud-Manager) | 9 | JavaScript | Manage Hetzner, Vultr, DigitalOcean and Linode cloud servers from Telegram |
 | [eminerolll/andromeda-lyra](https://github.com/eminerolll/andromeda-lyra) | 9 | JavaScript | Self-hosted developer environment manager: projects, code-server, dev-port previews, git, env, lo... |
+| [itsnikan/Telegram-Cloud-Manager](https://github.com/itsnikan/Telegram-Cloud-Manager) | 9 | JavaScript | Manage Hetzner, Vultr, DigitalOcean and Linode cloud servers from Telegram |
 | [getkipper/kipper](https://github.com/getkipper/kipper) | 6 | Go | Zero to production Kubernetes in one command. Web console, automatic SSL, one-command app deploym... |
 | [mdmahfujarrahman/home-lab](https://github.com/mdmahfujarrahman/home-lab) | 6 | — | Kubernetes manifests for my single-node k3s homelab — Traefik ingress, MetalLB, NFS + local-path ... |
-| [zsuroy/ctty](https://github.com/zsuroy/ctty) | 5 | Go | A lightweight, all-in-one connection manager — SSH, serial, and SFTP in a single TUI 🔥 |
+| [gogoaidev/awesome-sre-conferences](https://github.com/gogoaidev/awesome-sre-conferences) | 5 | — | Every SRE, DevOps, Platform and cloud-native conference and open CFP, with real dates and deadlin... |
 
 <!-- TRENDING:END -->
 
