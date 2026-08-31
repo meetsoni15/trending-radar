@@ -18,87 +18,87 @@ Categories tracked:
 Want a category added or removed? Edit `categories` in [scripts/update_trending.go](scripts/update_trending.go).
 
 <!-- TRENDING:START -->
-_Last updated: **2026-08-24** (UTC) · repos created in the last 7 days_
+_Last updated: **2026-08-31** (UTC) · repos created in the last 7 days_
 
 ## 🔥 New This Week (overall)
 
 | Repo | ⭐ Stars | Language | Description |
 |---|---|---|---|
-| [s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill) | 4,005 | — | A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos. |
-| [MengTo/threeui](https://github.com/MengTo/threeui) | 3,211 | HTML | Open-source ThreeUI Community catalog with live interactive components and complete Community sou... |
-| [wang2122/sprix-sage-router](https://github.com/wang2122/sprix-sage-router) | 1,700 | Python | Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks. |
-| [vvxw/deploy-vercel](https://github.com/vvxw/deploy-vercel) | 1,259 | JavaScript | Install Command：npm install |
-| [duty1g/x64dbg-mcp-server](https://github.com/duty1g/x64dbg-mcp-server) | 1,062 | Zig | x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the deb... |
-| [MeteorNOX/DeepSeek-Balance-Whale-Widget](https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget) | 795 | JavaScript | DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来... |
-| [ShadowAqueduct/watermark-remover](https://github.com/ShadowAqueduct/watermark-remover) | 762 | Python | Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear ... |
-| [cclank/lanshu-create-ai-presenter-video](https://github.com/cclank/lanshu-create-ai-presenter-video) | 749 | Python | Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an auth... |
-| [DenisSergeevitch/desktop-fly](https://github.com/DenisSergeevitch/desktop-fly) | 713 | Swift | A 3D fruit fly living on your macOS desktop, driven by a live spiking simulation of the real FlyW... |
-| [tobi/walgit](https://github.com/tobi/walgit) | 630 | Rust |  |
+| [sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST) | 5,435 | Python | Autonomous research system for measurable, computer-executable research. |
+| [HEJustinSun/my-girlfriend-jingtian-latex](https://github.com/HEJustinSun/my-girlfriend-jingtian-latex) | 4,186 | TeX |  |
+| [XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt) | 1,754 | TypeScript | ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness. |
+| [MetaMask-AI/metamask-desktop](https://github.com/MetaMask-AI/metamask-desktop) | 1,228 | CSS | 🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websites |
+| [Nanako0129/sepia](https://github.com/Nanako0129/sepia) | 1,188 | — | De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native p... |
+| [wide-trace/open-higgsfield](https://github.com/wide-trace/open-higgsfield) | 1,130 | TypeScript | A studio for image and video generation — one prompt bar, each model’s own settings, and every fi... |
+| [Tencent/WeMM-Embedding](https://github.com/Tencent/WeMM-Embedding) | 998 | Python | WeMM-Embedding is a family of universal multimodal embedding models by the WeChat Vision Team at ... |
+| [jub0t/Concat](https://github.com/jub0t/Concat) | 849 | TypeScript | Free & Open-Source CapCut replacement. |
+| [tradecatlabs/shulihuazixuecongshu](https://github.com/tradecatlabs/shulihuazixuecongshu) | 823 | Python |  |
+| [cbrock84/headcount](https://github.com/cbrock84/headcount) | 801 | Markdown | An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, ea... |
 
 ## 🤖 AI Agents & LLM Tools
 
 | Repo | ⭐ Stars | Language | Description |
 |---|---|---|---|
-| [wang2122/sprix-sage-router](https://github.com/wang2122/sprix-sage-router) | 1,700 | Python | Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks. |
-| [duty1g/x64dbg-mcp-server](https://github.com/duty1g/x64dbg-mcp-server) | 1,062 | Zig | x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the deb... |
-| [only-cli/oc](https://github.com/only-cli/oc) | 246 | JavaScript | Turn any website into a compact CLI tailored for AI agents. Browse the web in hundreds of tokens,... |
-| [ZSeven-W/dsh-ios](https://github.com/ZSeven-W/dsh-ios) | 236 | TypeScript | DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the con... |
-| [kgoedecke/doop](https://github.com/kgoedecke/doop) | 229 | TypeScript | The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agen... |
-| [worldwonderer/oh-story-dsh](https://github.com/worldwonderer/oh-story-dsh) | 169 | Python | A DSH plugin for novel writing and short-drama production, powered by Oh Story and Drama Skills. |
-| [OpenLabs-so/oa-design](https://github.com/OpenLabs-so/oa-design) | 113 | TypeScript | The Open Analytics design language as an agent skill: component recipes with type-checked source,... |
-| [Jordanwei1/jiaojie-skill](https://github.com/Jordanwei1/jiaojie-skill) | 104 | Python | 交接 Skill（Jiaojie）：跨窗口、跨模型、跨设备、跨语言的 AI 上下文交接工具。换窗口，不失忆；换模型，不重来。Open-source AI context handoff. |
+| [XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt) | 1,754 | TypeScript | ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness. |
+| [OnlyTerp/opengrok](https://github.com/OnlyTerp/opengrok) | 391 | JavaScript | Run any model in Grok Bot — one-command setup, model picker UI, evidence-based provider wire maps... |
+| [acryldev/acryl](https://github.com/acryldev/acryl) | 231 | TypeScript | ACRYL - Agent Context Relay Yielding Lifecycles. One persistent workspace, one canonical context,... |
+| [JordyZomer/lemmalog](https://github.com/JordyZomer/lemmalog) | 229 | Rust | A Datalog engine for LLM agent memory: stratified rules, provenance-tracked facts, incremental de... |
+| [Merit-Systems/OpenInstinct](https://github.com/Merit-Systems/OpenInstinct) | 220 | TypeScript | iMessage personal assistant + password vault |
+| [Vuk97/forward-implementation-first](https://github.com/Vuk97/forward-implementation-first) | 150 | Shell | Stop your coding agent from stalling real work on self-invented bookkeeping - receipts, hashes, l... |
+| [kharmanskyi/open-steps](https://github.com/kharmanskyi/open-steps) | 134 | Shell | Skills that translate your coding agent's output into plain language: honest reports, straight ve... |
+| [useagenthq/useagent](https://github.com/useagenthq/useagent) | 131 | TypeScript | Hand off the work. Get back the result. The open-source AI coworker for your team: agents with th... |
 
 ## 🛡️ Security, Hacking & Pentesting
 
 | Repo | ⭐ Stars | Language | Description |
 |---|---|---|---|
-| [Zyrexnn/Cybermes](https://github.com/Zyrexnn/Cybermes) | 320 | Python | Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, ... |
-| [DavidCarliez/cover](https://github.com/DavidCarliez/cover) | 36 | Go | Reversible privacy proxy for AI agents: send realistic fakes, restore originals locally. |
-| [0x4meliorate/Mimic](https://github.com/0x4meliorate/Mimic) | 33 | JavaScript | Frameless Browser‑in‑the‑Browser (BitB) - No iframes, no frame‑busting issues. A single‑script Sh... |
-| [1rhino2/fnprint](https://github.com/1rhino2/fnprint) | 29 | Rust | match functions in binaries by what they do, not what their bytes look like. behavioral function ... |
-| [armourinfosec/Offensive-Windows-Privilege-Escalation](https://github.com/armourinfosec/Offensive-Windows-Privilege-Escalation) | 14 | — | Offensive Windows Privilege Escalation — hands-on study notes: enumeration & methodology, service... |
-| [armourinfosec/Offensive-File-Transfer-Techniques](https://github.com/armourinfosec/Offensive-File-Transfer-Techniques) | 13 | — | Offensive File Transfer Techniques — hands-on study notes on moving files to and from a target du... |
-| [armourinfosec/Python-for-Security-Professionals](https://github.com/armourinfosec/Python-for-Security-Professionals) | 12 | — | Python for Security Professionals — lab-driven study notes: language fundamentals, the standard l... |
-| [pale-knight/redteam-skill](https://github.com/pale-knight/redteam-skill) | 11 | Python | Redteam / Pentest Skill Pack — semi-automated workflow + on-demand module selection + real-world ... |
+| [S1N6H/pentest-harness](https://github.com/S1N6H/pentest-harness) | 309 | TypeScript | Pentest Harness — Heaven for Hackers. A self-hosted AI agent harness for authorized pentests, bug... |
+| [KorekKayu/IKONA-Security](https://github.com/KorekKayu/IKONA-Security) | 115 | Python | 🛡️ Comprehensive Cybersecurity Arsenal, Bug Bounty Payloads & Security Audit Tools by IKONA ONI |
+| [fdfsdfsdfss/spacepeng-frida-playground](https://github.com/fdfsdfsdfss/spacepeng-frida-playground) | 56 | HTML | SpacePeng Trainer 2026: Advanced Frida Script Examples & Game Hacks |
+| [Suryaazz/Settlers5-Time-Compressor](https://github.com/Suryaazz/Settlers5-Time-Compressor) | 55 | HTML | Settlers 5 Speed Trainer 2026: How to Boost Gameplay Performance |
+| [gmoff04/rust-overwatch-ballistics](https://github.com/gmoff04/rust-overwatch-ballistics) | 55 | HTML | Top Rust Gameplay Enhancement Suite 2026: ESP & No Recoil |
+| [gpsandii/rust-optics-vector-control](https://github.com/gpsandii/rust-optics-vector-control) | 55 | HTML | Best Rust ESP & No-Recoil Aim Assist 2026 – Advanced Optics Suite |
+| [ltw1102-stack/Rust-External-Projectile-Control](https://github.com/ltw1102-stack/Rust-External-Projectile-Control) | 55 | HTML | Best Rust External ESP & No-Recoil Utility 2026 – Smart Aim Correction |
+| [vasusahu616/silver-arcana-reforged](https://github.com/vasusahu616/silver-arcana-reforged) | 55 | HTML | Silver RPG 2026 Remaster: Ultimate Gameplay Enhancements & Mod Tools Guide |
 
 ## 🐹 Go Projects
 
 | Repo | ⭐ Stars | Language | Description |
 |---|---|---|---|
-| [zhaoxuya520/MeshLAN](https://github.com/zhaoxuya520/MeshLAN) | 157 | Go | Self-hosted P2P-first virtual LAN, service sharing, multi-relay and AI automation built on Nebula. |
-| [jsongmax/oci-core](https://github.com/jsongmax/oci-core) | 104 | Go | 自托管的 Oracle Cloud 多账号管理面板 · 单二进制 · 容量监控与守候 / Self-hosted multi-account control panel for Oracle C... |
-| [thomassolcia/DiscordGoLiveBypass](https://github.com/thomassolcia/DiscordGoLiveBypass) | 43 | Go | Abra seu Discord por um IP fora do Brasil, devolvendo o Go Live, a câmera e a transmissão de tela. |
-| [AFSlayer/antigravity-server](https://github.com/AFSlayer/antigravity-server) | 24 | Go | Use the Antigravity desktop app from your phone. One binary that serves Antigravity's own web UI ... |
-| [arhuman/ansible-static-lint](https://github.com/arhuman/ansible-static-lint) | 14 | Go | Static Ansible linting in Go: the 38 ansible-lint rules decidable from YAML alone, byte-for-byte ... |
-| [GO-VIRTUAL-bv/tile38.go](https://github.com/GO-VIRTUAL-bv/tile38.go) | 10 | Go | A dependency-free Go client for the Tile38 geospatial database — RESP over net.Conn, with searche... |
-| [moriyoshi/pglite-go](https://github.com/moriyoshi/pglite-go) | 8 | Go | Embedded PostgreSQL for Go — no external server, no libpq, no separate process. |
-| [plainfate/IotaPanel](https://github.com/plainfate/IotaPanel) | 7 | Go | 极简微内核 Linux 服务器面板：核心只做认证/反向代理/插件进程调度，功能全由独立进程插件提供（任意语言），按需冷启动、空闲自动退出、崩溃隔离。qq群:801389996 |
+| [Zulwatha/content-parity](https://github.com/Zulwatha/content-parity) | 30 | Go | Measure what a website serves to machine readers. Fetches any page as several honest identities, ... |
+| [proofofbeauty/ISO-tride](https://github.com/proofofbeauty/ISO-tride) | 21 | Go | Core services layer: identity, config, transport, storage. Go, zero external deps. |
+| [liyanan2016-stack/guanfang-youxuan](https://github.com/liyanan2016-stack/guanfang-youxuan) | 18 | Go | 官方优选 - Cloudflare 官方 IP 段优选工具，Android + Windows/Linux |
+| [YuJunZhiXue/arcway](https://github.com/YuJunZhiXue/arcway) | 11 | Go | 瓴关 Arcway：自托管 LLM 网关。OpenAI 兼容 /v1，网页后台管理渠道、路由和密钥。 |
+| [butaraul/GraphQL-Schema-Stitcher](https://github.com/butaraul/GraphQL-Schema-Stitcher) | 4 | Go | Go gateway that stitches 3 GraphQL microservices into one unified API with batching and concurren... |
+| [git-pkgs/gcs](https://github.com/git-pkgs/gcs) | 4 | Go | Lightweight Google Cloud Storage client for Go |
+| [SamuelSupe/git-rg](https://github.com/SamuelSupe/git-rg) | 4 | Go | Remote ripgrep for GitHub and GitLab without cloning repository history |
+| [mohityadav8/cncf-lens](https://github.com/mohityadav8/cncf-lens) | 4 | Go | A unified CLI that correlates Kubernetes, Prometheus, Loki and Jaeger onto one timeline |
 
 ## 🛠️ Developer Tools & CLI
 
 | Repo | ⭐ Stars | Language | Description |
 |---|---|---|---|
-| [MeteorNOX/DeepSeek-Balance-Whale-Widget](https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget) | 795 | JavaScript | DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来... |
-| [only-cli/oc](https://github.com/only-cli/oc) | 246 | JavaScript | Turn any website into a compact CLI tailored for AI agents. Browse the web in hundreds of tokens,... |
-| [jinzijian/EvoTrace](https://github.com/jinzijian/EvoTrace) | 134 | Python | Compile real-world Claude Code and Codex trajectories into verified, tradable post-training assets. |
-| [lianghsun/open-sheet](https://github.com/lianghsun/open-sheet) | 82 | TypeScript | The spreadsheet framework built for agents — write the model as React, export a live .xlsx. The t... |
-| [Cripacx/mediagen](https://github.com/Cripacx/mediagen) | 54 | TypeScript | AI image and video generation skill for Claude Code and other coding agents — Gemini, OpenAI and ... |
-| [sodiumsun/agenttrail](https://github.com/sodiumsun/agenttrail) | 50 | HTML | Local observability map for AI coding agents. Watch Claude Code, Codex, and Cursor plans, tool ca... |
-| [DandreYang/local-image-gen](https://github.com/DandreYang/local-image-gen) | 50 | Python | Generate images from local Grok, Antigravity, Cursor, or Codex logins, with official API keys as ... |
-| [ArihantDeva/heimdall](https://github.com/ArihantDeva/heimdall) | 36 | JavaScript | Persistent memory for AI coding agents — one verified kb_search replaces the grep/find/ls orienta... |
+| [Nanako0129/sepia](https://github.com/Nanako0129/sepia) | 1,188 | — | De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native p... |
+| [HRuiCcc/music-geshizhuanhuan](https://github.com/HRuiCcc/music-geshizhuanhuan) | 223 | Python | 全平台加密音乐格式转换器（网页版+命令行）：网易云 NCM / QQ音乐 QMC / 酷狗 KGM / 酷我 KWM 解密与转码，代码从零自研，MIT 协议 |
+| [rhevorn/confetti](https://github.com/rhevorn/confetti) | 163 | TypeScript | Confetti — one VS Code extension for toml, yaml, ini, nginx, dotenv, gitignore, hosts, and 16+ co... |
+| [Vuk97/forward-implementation-first](https://github.com/Vuk97/forward-implementation-first) | 150 | Shell | Stop your coding agent from stalling real work on self-invented bookkeeping - receipts, hashes, l... |
+| [useagenthq/useagent](https://github.com/useagenthq/useagent) | 131 | TypeScript | Hand off the work. Get back the result. The open-source AI coworker for your team: agents with th... |
+| [Thorsten02041973/robinhood-cli](https://github.com/Thorsten02041973/robinhood-cli) | 128 | TypeScript | Robinhood Chain DeFi CLI |
+| [ooocooc/open-skill-sunset](https://github.com/ooocooc/open-skill-sunset) | 87 | JavaScript | Local, read-only audit for stale AGENTS.md, CLAUDE.md, and generic SKILL.md instructions. |
+| [Lokesh2331/arj-math-drill-command-line](https://github.com/Lokesh2331/arj-math-drill-command-line) | 55 | HTML | Master Math Facts Fast: ARJ Times Table Trainer CLI 2026 |
 
 ## ⚙️ DevOps & Infrastructure
 
 | Repo | ⭐ Stars | Language | Description |
 |---|---|---|---|
-| [arhuman/ansible-static-lint](https://github.com/arhuman/ansible-static-lint) | 14 | Go | Static Ansible linting in Go: the 38 ansible-lint rules decidable from YAML alone, byte-for-byte ... |
-| [taovietducofficial/Git-Deployment-Student](https://github.com/taovietducofficial/Git-Deployment-Student) | 9 | Shell | A practical Git & Deployment roadmap for IT students. Builds on Git-Deployment-Beginner with Git ... |
-| [plainfate/IotaPanel](https://github.com/plainfate/IotaPanel) | 7 | Go | 极简微内核 Linux 服务器面板：核心只做认证/反向代理/插件进程调度，功能全由独立进程插件提供（任意语言），按需冷启动、空闲自动退出、崩溃隔离。qq群:801389996 |
-| [Exevra/exevra](https://github.com/Exevra/exevra) | 6 | TypeScript | Check that your JUnit tests run in CI. Flag missing suites, reduced counts, and test-set drift. |
-| [thesmithdao/cultos](https://github.com/thesmithdao/cultos) | 6 | TypeScript | GitHub-native work for the agent economy. |
-| [0xgetz/9router-bai-setup](https://github.com/0xgetz/9router-bai-setup) | 5 | Shell | One-command, zero-restart registration of B.AI as an OpenAI-compatible provider on 9Router (idemp... |
-| [Nouman-Amjad/Cairn](https://github.com/Nouman-Amjad/Cairn) | 5 | Python | Agentic incident-analysis copilot: MCP tool servers, a cost-aware model router, an approval-gated... |
-| [rlx/uplevel](https://github.com/rlx/uplevel) | 3 | Shell | Uplevel your repo's engineering process. Most tools tell you what's wrong; uplevel tells you also... |
+| [OthmaneBlial/MobaRust](https://github.com/OthmaneBlial/MobaRust) | 78 | Rust | Free, open-source MobaXterm alternative built with Rust: SSH, SFTP, SCP, terminals, tunnels, seri... |
+| [a2w-A/proxmox-pve-toolkit](https://github.com/a2w-A/proxmox-pve-toolkit) | 12 | TypeScript | Enterprise Proxmox VE 8.x/7.x cluster orchestrator, live node auditor, vzdump snapshot scheduler ... |
+| [antifailure/antifailure](https://github.com/antifailure/antifailure) | 12 | Go | A disposable copy of your production stack for every pull request: masked Postgres, contained thi... |
+| [saghosh8/AI-For-DevOps](https://github.com/saghosh8/AI-For-DevOps) | 9 | — | A 21-day hands-on journey to mastering AI for DevOps — covering LLMs, GenAI, CI/CD, Kubernetes, c... |
+| [qxmcu/ghost-hunter](https://github.com/qxmcu/ghost-hunter) | 9 | Python | Ghost Hunter is an automated bug-reproduction bot for GitHub. Comment bot/reproduce on an issue a... |
+| [fabricioctelles/jump-skills](https://github.com/fabricioctelles/jump-skills) | 8 | Shell | Jump Skill Ninjas are intelligent meta-skills — master orchestrators that route your requests to ... |
+| [Ferousco-dev/ilana](https://github.com/Ferousco-dev/ilana) | 7 | Shell | A software engineering process operating system for coding agents. 11 phases, 9 gates, 13 agents,... |
+| [mustafaabasaran/planizer](https://github.com/mustafaabasaran/planizer) | 6 | C# | SQL Server / T-SQL migration linter: validates and explains DDL before it runs — locking (Sch-M),... |
 
 <!-- TRENDING:END -->
 
