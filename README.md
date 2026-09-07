@@ -18,87 +18,87 @@ Categories tracked:
 Want a category added or removed? Edit `categories` in [scripts/update_trending.go](scripts/update_trending.go).
 
 <!-- TRENDING:START -->
-_Last updated: **2026-08-31** (UTC) · repos created in the last 7 days_
+_Last updated: **2026-09-07** (UTC) · repos created in the last 7 days_
 
 ## 🔥 New This Week (overall)
 
 | Repo | ⭐ Stars | Language | Description |
 |---|---|---|---|
-| [sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST) | 5,435 | Python | Autonomous research system for measurable, computer-executable research. |
-| [HEJustinSun/my-girlfriend-jingtian-latex](https://github.com/HEJustinSun/my-girlfriend-jingtian-latex) | 4,186 | TeX |  |
-| [XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt) | 1,754 | TypeScript | ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness. |
-| [MetaMask-AI/metamask-desktop](https://github.com/MetaMask-AI/metamask-desktop) | 1,228 | CSS | 🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websites |
-| [Nanako0129/sepia](https://github.com/Nanako0129/sepia) | 1,188 | — | De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native p... |
-| [wide-trace/open-higgsfield](https://github.com/wide-trace/open-higgsfield) | 1,130 | TypeScript | A studio for image and video generation — one prompt bar, each model’s own settings, and every fi... |
-| [Tencent/WeMM-Embedding](https://github.com/Tencent/WeMM-Embedding) | 998 | Python | WeMM-Embedding is a family of universal multimodal embedding models by the WeChat Vision Team at ... |
-| [jub0t/Concat](https://github.com/jub0t/Concat) | 849 | TypeScript | Free & Open-Source CapCut replacement. |
-| [tradecatlabs/shulihuazixuecongshu](https://github.com/tradecatlabs/shulihuazixuecongshu) | 823 | Python |  |
-| [cbrock84/headcount](https://github.com/cbrock84/headcount) | 801 | Markdown | An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, ea... |
+| [lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas) | 4,560 | TypeScript | Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts. |
+| [anthropics/commerce-agents](https://github.com/anthropics/commerce-agents) | 2,360 | Python | Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, co... |
+| [ashemag/human-atlas](https://github.com/ashemag/human-atlas) | 1,813 | TypeScript | Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and ... |
+| [Rion-Wu-tech/wechat-intelligence-hub](https://github.com/Rion-Wu-tech/wechat-intelligence-hub) | 1,674 | Python | Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat histor... |
+| [pierrenade/short-video-generator-AI](https://github.com/pierrenade/short-video-generator-AI) | 1,145 | Python | Free open-source project designed for turning youtube-viedos into viral short videos. Highlight d... |
+| [anthropics/fermats-last-theorem](https://github.com/anthropics/fermats-last-theorem) | 907 | Lean |  |
+| [vinzdg/codenotch](https://github.com/vinzdg/codenotch) | 853 | Swift | A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen e... |
+| [yczz/oc-english](https://github.com/yczz/oc-english) | 846 | JavaScript | 养成类游戏英语学习 |
+| [danielblnc/DLSS-NR-on-AMD](https://github.com/danielblnc/DLSS-NR-on-AMD) | 823 | — | Run DLSS 5 Neural Rendering on your AMD GPU. Magic! |
+| [EverettFish/holo-card-studio](https://github.com/EverettFish/holo-card-studio) | 674 | Python | Turn the user's description or uploaded reference into a finished, editable Blender card and an i... |
 
 ## 🤖 AI Agents & LLM Tools
 
 | Repo | ⭐ Stars | Language | Description |
 |---|---|---|---|
-| [XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt) | 1,754 | TypeScript | ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness. |
-| [OnlyTerp/opengrok](https://github.com/OnlyTerp/opengrok) | 391 | JavaScript | Run any model in Grok Bot — one-command setup, model picker UI, evidence-based provider wire maps... |
-| [acryldev/acryl](https://github.com/acryldev/acryl) | 231 | TypeScript | ACRYL - Agent Context Relay Yielding Lifecycles. One persistent workspace, one canonical context,... |
-| [JordyZomer/lemmalog](https://github.com/JordyZomer/lemmalog) | 229 | Rust | A Datalog engine for LLM agent memory: stratified rules, provenance-tracked facts, incremental de... |
-| [Merit-Systems/OpenInstinct](https://github.com/Merit-Systems/OpenInstinct) | 220 | TypeScript | iMessage personal assistant + password vault |
-| [Vuk97/forward-implementation-first](https://github.com/Vuk97/forward-implementation-first) | 150 | Shell | Stop your coding agent from stalling real work on self-invented bookkeeping - receipts, hashes, l... |
-| [kharmanskyi/open-steps](https://github.com/kharmanskyi/open-steps) | 134 | Shell | Skills that translate your coding agent's output into plain language: honest reports, straight ve... |
-| [useagenthq/useagent](https://github.com/useagenthq/useagent) | 131 | TypeScript | Hand off the work. Get back the result. The open-source AI coworker for your team: agents with th... |
+| [PhiloLabs/fable51-worlds](https://github.com/PhiloLabs/fable51-worlds) | 460 | JavaScript | worlds via code, from fable 5.1 |
+| [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot) | 331 | Python | 598 live x.ai/bot shares for Grok Bot — every link status-checked, every row attributed. Bilingua... |
+| [BoardUI/boardui](https://github.com/BoardUI/boardui) | 326 | TypeScript | React design system for agentic interfaces. Every free BoardUI component as source, with a workin... |
+| [adtexterry-lgtm/unigit-ecosystem](https://github.com/adtexterry-lgtm/unigit-ecosystem) | 315 | JavaScript | UNIGIT public brand and ecosystem hub — AI should work for everyone. |
+| [Agenta-AI/awesome-ai-agent-platforms](https://github.com/Agenta-AI/awesome-ai-agent-platforms) | 244 | Astro | A curated list of open-source AI agent platforms: AI coworkers and teammates, agent builders and ... |
+| [hsandhu/mobilecode](https://github.com/hsandhu/mobilecode) | 141 | TypeScript | mobilecode is a fork of opencode that builds and previews iOS and Android projects |
+| [Apeireth/Apeireth](https://github.com/Apeireth/Apeireth) | 99 | Rust | Apeireth — A Pure Safe Rust AGI Operating System & Cognitive Microkernel. 16 crates: continuous t... |
+| [aaravshah1311/Agent-2](https://github.com/aaravshah1311/Agent-2) | 94 | Python | Agent2 — An autonomous AI agent for coding, cybersecurity, terminal automation, and intelligent t... |
 
 ## 🛡️ Security, Hacking & Pentesting
 
 | Repo | ⭐ Stars | Language | Description |
 |---|---|---|---|
-| [S1N6H/pentest-harness](https://github.com/S1N6H/pentest-harness) | 309 | TypeScript | Pentest Harness — Heaven for Hackers. A self-hosted AI agent harness for authorized pentests, bug... |
-| [KorekKayu/IKONA-Security](https://github.com/KorekKayu/IKONA-Security) | 115 | Python | 🛡️ Comprehensive Cybersecurity Arsenal, Bug Bounty Payloads & Security Audit Tools by IKONA ONI |
-| [fdfsdfsdfss/spacepeng-frida-playground](https://github.com/fdfsdfsdfss/spacepeng-frida-playground) | 56 | HTML | SpacePeng Trainer 2026: Advanced Frida Script Examples & Game Hacks |
-| [Suryaazz/Settlers5-Time-Compressor](https://github.com/Suryaazz/Settlers5-Time-Compressor) | 55 | HTML | Settlers 5 Speed Trainer 2026: How to Boost Gameplay Performance |
-| [gmoff04/rust-overwatch-ballistics](https://github.com/gmoff04/rust-overwatch-ballistics) | 55 | HTML | Top Rust Gameplay Enhancement Suite 2026: ESP & No Recoil |
-| [gpsandii/rust-optics-vector-control](https://github.com/gpsandii/rust-optics-vector-control) | 55 | HTML | Best Rust ESP & No-Recoil Aim Assist 2026 – Advanced Optics Suite |
-| [ltw1102-stack/Rust-External-Projectile-Control](https://github.com/ltw1102-stack/Rust-External-Projectile-Control) | 55 | HTML | Best Rust External ESP & No-Recoil Utility 2026 – Smart Aim Correction |
-| [vasusahu616/silver-arcana-reforged](https://github.com/vasusahu616/silver-arcana-reforged) | 55 | HTML | Silver RPG 2026 Remaster: Ultimate Gameplay Enhancements & Mod Tools Guide |
+| [Yuxuan2003/Awesome-GUI-Agent-Security](https://github.com/Yuxuan2003/Awesome-GUI-Agent-Security) | 68 | Python | GUI / Computer-Use / Browser Agent 安全论文清单 —— 按攻防轴组织，每篇附中文简介 |
+| [smartsmiledev/WasmQuay](https://github.com/smartsmiledev/WasmQuay) | 36 | Rust | Offline WebAssembly component inspection and capability-policy toolkit - decode .wasm binaries, c... |
+| [Drotfix/ghunt-panel](https://github.com/Drotfix/ghunt-panel) | 26 | JavaScript | A local, self-hosted web UI for GHunt — mxrch's OSINT framework for investigating Google accounts... |
+| [Laleeth/The-AI-Engineer-s-Playbook](https://github.com/Laleeth/The-AI-Engineer-s-Playbook) | 11 | Python | Practical engineering knowledge for building and operating production AI systems — LLMs, RAG, age... |
+| [SagarBiswas-MultiHAT/NmapScanningTool](https://github.com/SagarBiswas-MultiHAT/NmapScanningTool) | 10 | Python | A secure, production-ready Python CLI wrapper for Nmap that makes powerful scans easy and repeata... |
+| [SagarBiswas-MultiHAT/cybersecurity-career-roadmap](https://github.com/SagarBiswas-MultiHAT/cybersecurity-career-roadmap) | 9 | — | A comprehensive cybersecurity career roadmap and handbook covering 35 roles across Offensive, Def... |
+| [1837620622/agent-bypass](https://github.com/1837620622/agent-bypass) | 9 | — | AgentBypass — Omni Operator LLM Agent Skill (Cknb): Turn any LLM into RE / Pwn / CTF / Pentest / ... |
+| [CSPF-Founder/redactproxy](https://github.com/CSPF-Founder/redactproxy) | 8 | Go | A local proxy that keeps client data out of Claude Code. |
 
 ## 🐹 Go Projects
 
 | Repo | ⭐ Stars | Language | Description |
 |---|---|---|---|
-| [Zulwatha/content-parity](https://github.com/Zulwatha/content-parity) | 30 | Go | Measure what a website serves to machine readers. Fetches any page as several honest identities, ... |
-| [proofofbeauty/ISO-tride](https://github.com/proofofbeauty/ISO-tride) | 21 | Go | Core services layer: identity, config, transport, storage. Go, zero external deps. |
-| [liyanan2016-stack/guanfang-youxuan](https://github.com/liyanan2016-stack/guanfang-youxuan) | 18 | Go | 官方优选 - Cloudflare 官方 IP 段优选工具，Android + Windows/Linux |
-| [YuJunZhiXue/arcway](https://github.com/YuJunZhiXue/arcway) | 11 | Go | 瓴关 Arcway：自托管 LLM 网关。OpenAI 兼容 /v1，网页后台管理渠道、路由和密钥。 |
-| [butaraul/GraphQL-Schema-Stitcher](https://github.com/butaraul/GraphQL-Schema-Stitcher) | 4 | Go | Go gateway that stitches 3 GraphQL microservices into one unified API with batching and concurren... |
-| [git-pkgs/gcs](https://github.com/git-pkgs/gcs) | 4 | Go | Lightweight Google Cloud Storage client for Go |
-| [SamuelSupe/git-rg](https://github.com/SamuelSupe/git-rg) | 4 | Go | Remote ripgrep for GitHub and GitLab without cloning repository history |
-| [mohityadav8/cncf-lens](https://github.com/mohityadav8/cncf-lens) | 4 | Go | A unified CLI that correlates Kubernetes, Prometheus, Loki and Jaeger onto one timeline |
+| [Slrrxx/binance-go](https://github.com/Slrrxx/binance-go) | 41 | Go | Production-ready unofficial Binance REST and WebSocket SDK for Go |
+| [pcm469768-droid/llm-api-speedtest](https://github.com/pcm469768-droid/llm-api-speedtest) | 31 | Go | Benchmark LLM APIs, OpenAI-compatible gateways, and API proxies by token speed, TTFB, latency, an... |
+| [nickelsec/bough](https://github.com/nickelsec/bough) | 29 | Go | Claude Code writes down everything you do. bough draws it: a day, the work inside it, every promp... |
+| [rulego/gflow-engine](https://github.com/rulego/gflow-engine) | 17 | Go | Embeddable approval workflow engine for Go, built on RuleGo — JSON DSL, full approval semantics, ... |
+| [permgps/herdr-telegram-agents](https://github.com/permgps/herdr-telegram-agents) | 11 | Go | Drive your coding agents from Telegram like from the terminal. A topic per agent, live status in ... |
+| [lingulingo/tlsprint](https://github.com/lingulingo/tlsprint) | 10 | Go | Engine-independent TLS fingerprint library for Go — JA3/JA4, uTLS browser impersonation, byte-exa... |
+| [vallenmulia99/VallenGTPS-Go](https://github.com/vallenmulia99/VallenGTPS-Go) | 8 | Go | VALLEN GTPS GROWTOPIA PRIVATE SERVER GO |
+| [emirb/kernelbuild-buildkit](https://github.com/emirb/kernelbuild-buildkit) | 6 | Go | A BuildKit frontend that builds reproducible Linux kernels from a Kernelfile with stock Docker bu... |
 
 ## 🛠️ Developer Tools & CLI
 
 | Repo | ⭐ Stars | Language | Description |
 |---|---|---|---|
-| [Nanako0129/sepia](https://github.com/Nanako0129/sepia) | 1,188 | — | De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native p... |
-| [HRuiCcc/music-geshizhuanhuan](https://github.com/HRuiCcc/music-geshizhuanhuan) | 223 | Python | 全平台加密音乐格式转换器（网页版+命令行）：网易云 NCM / QQ音乐 QMC / 酷狗 KGM / 酷我 KWM 解密与转码，代码从零自研，MIT 协议 |
-| [rhevorn/confetti](https://github.com/rhevorn/confetti) | 163 | TypeScript | Confetti — one VS Code extension for toml, yaml, ini, nginx, dotenv, gitignore, hosts, and 16+ co... |
-| [Vuk97/forward-implementation-first](https://github.com/Vuk97/forward-implementation-first) | 150 | Shell | Stop your coding agent from stalling real work on self-invented bookkeeping - receipts, hashes, l... |
-| [useagenthq/useagent](https://github.com/useagenthq/useagent) | 131 | TypeScript | Hand off the work. Get back the result. The open-source AI coworker for your team: agents with th... |
-| [Thorsten02041973/robinhood-cli](https://github.com/Thorsten02041973/robinhood-cli) | 128 | TypeScript | Robinhood Chain DeFi CLI |
-| [ooocooc/open-skill-sunset](https://github.com/ooocooc/open-skill-sunset) | 87 | JavaScript | Local, read-only audit for stale AGENTS.md, CLAUDE.md, and generic SKILL.md instructions. |
-| [Lokesh2331/arj-math-drill-command-line](https://github.com/Lokesh2331/arj-math-drill-command-line) | 55 | HTML | Master Math Facts Fast: ARJ Times Table Trainer CLI 2026 |
+| [kowalski76057/cf-turnstile-token](https://github.com/kowalski76057/cf-turnstile-token) | 67 | Python | Scriptable Cloudflare Turnstile token CLI via the Peak API - sitekey discovery, solve, and token ... |
+| [dengyie/cnb2api](https://github.com/dengyie/cnb2api) | 48 | JavaScript | Expose a CNB cloud-workspace in-network AI endpoint as an OpenAI-compatible API. Zero dependencie... |
+| [bahni-m/code-with-quran](https://github.com/bahni-m/code-with-quran) | 46 | JavaScript | Read the Qur'an while Claude Code works. Start a session with 'claude --cwq' and a reader beside ... |
+| [seanhowarthdev/Roam-Control](https://github.com/seanhowarthdev/Roam-Control) | 41 | Swift | Choose, test and move an iPhone’s reported location. |
+| [mpaymenremora/CacheCraft](https://github.com/mpaymenremora/CacheCraft) | 39 | Python | Semantic cache strategy bench: replay recorded request traces through candidate caching policies ... |
+| [xiyu519/MotionVault](https://github.com/xiyu519/MotionVault) | 38 | TypeScript | 200 web animation examples with copy-ready AI prompts + MotionLens: turn any site's animation int... |
+| [xiaojumaoaihuaban/grok-unleashed](https://github.com/xiaojumaoaihuaban/grok-unleashed) | 37 | Shell | grok-build with the leash off — one binary, any OpenAI-compatible endpoint, zero phone-home. No x... |
+| [nickelsec/bough](https://github.com/nickelsec/bough) | 29 | Go | Claude Code writes down everything you do. bough draws it: a day, the work inside it, every promp... |
 
 ## ⚙️ DevOps & Infrastructure
 
 | Repo | ⭐ Stars | Language | Description |
 |---|---|---|---|
-| [OthmaneBlial/MobaRust](https://github.com/OthmaneBlial/MobaRust) | 78 | Rust | Free, open-source MobaXterm alternative built with Rust: SSH, SFTP, SCP, terminals, tunnels, seri... |
-| [a2w-A/proxmox-pve-toolkit](https://github.com/a2w-A/proxmox-pve-toolkit) | 12 | TypeScript | Enterprise Proxmox VE 8.x/7.x cluster orchestrator, live node auditor, vzdump snapshot scheduler ... |
-| [antifailure/antifailure](https://github.com/antifailure/antifailure) | 12 | Go | A disposable copy of your production stack for every pull request: masked Postgres, contained thi... |
-| [saghosh8/AI-For-DevOps](https://github.com/saghosh8/AI-For-DevOps) | 9 | — | A 21-day hands-on journey to mastering AI for DevOps — covering LLMs, GenAI, CI/CD, Kubernetes, c... |
-| [qxmcu/ghost-hunter](https://github.com/qxmcu/ghost-hunter) | 9 | Python | Ghost Hunter is an automated bug-reproduction bot for GitHub. Comment bot/reproduce on an issue a... |
-| [fabricioctelles/jump-skills](https://github.com/fabricioctelles/jump-skills) | 8 | Shell | Jump Skill Ninjas are intelligent meta-skills — master orchestrators that route your requests to ... |
-| [Ferousco-dev/ilana](https://github.com/Ferousco-dev/ilana) | 7 | Shell | A software engineering process operating system for coding agents. 11 phases, 9 gates, 13 agents,... |
-| [mustafaabasaran/planizer](https://github.com/mustafaabasaran/planizer) | 6 | C# | SQL Server / T-SQL migration linter: validates and explains DDL before it runs — locking (Sch-M),... |
+| [Wyrcan-io/roadmap](https://github.com/Wyrcan-io/roadmap) | 12 | HTML | A text-first, 12-stage engineering curriculum for AI/ML × Cloud × DevOps × MLOps (12–24 months). ... |
+| [R3DRUN3/flowkit](https://github.com/R3DRUN3/flowkit) | 9 | Shell | Build, run, and manage your n8n workflows. |
+| [Adilmunawar/ZD-claude-plugin](https://github.com/Adilmunawar/ZD-claude-plugin) | 8 | JavaScript | Claude Code plugins for agricultural geospatial engineering. agents, skills and guardrails for sa... |
+| [cloudfluent/terragraph](https://github.com/cloudfluent/terragraph) | 7 | Go | A graph-based orchestrator for Terraform and OpenTofu. |
+| [lynamr/target-bitcoin-liquidat-rn4lz7](https://github.com/lynamr/target-bitcoin-liquidat-rn4lz7) | 4 | Python | Backfill slot for keyword: bitcoin-liquidation-bot |
+| [Reoshiko/MessageVault](https://github.com/Reoshiko/MessageVault) | 4 | Python | DevOps training project for beginners |
+| [lynamr/target-bitcoin-swap-too-yetkj3](https://github.com/lynamr/target-bitcoin-swap-too-yetkj3) | 4 | Python | Backfill slot for keyword: bitcoin-swap-tool |
+| [pezguiddgooms/target-rust-mev-bot-i2svn6](https://github.com/pezguiddgooms/target-rust-mev-bot-i2svn6) | 3 | Python | Backfill slot for keyword: rust-mev-bot |
 
 <!-- TRENDING:END -->
 
