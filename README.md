@@ -18,87 +18,87 @@ Categories tracked:
 Want a category added or removed? Edit `categories` in [scripts/update_trending.go](scripts/update_trending.go).
 
 <!-- TRENDING:START -->
-_Last updated: **2026-09-21** (UTC) · repos created in the last 7 days_
+_Last updated: **2026-09-28** (UTC) · repos created in the last 7 days_
 
 ## 🔥 New This Week (overall)
 
 | Repo | ⭐ Stars | Language | Description |
 |---|---|---|---|
-| [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast) | 14,762 | Python | Fastest and cheapest web agent |
-| [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) | 8,465 | Python |  |
-| [tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction) | 5,839 | TypeScript | Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and r... |
-| [zai-org/ZCode](https://github.com/zai-org/ZCode) | 5,279 | TypeScript | Z.ai's coding agent harness. Powerful, intelligent, extensible. |
-| [robbietilton/Compositor](https://github.com/robbietilton/Compositor) | 4,212 | Swift | The Photoshop alternative for Mac |
-| [mizorewww/laya-mlx](https://github.com/mizorewww/laya-mlx) | 3,044 | Python | Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text ge... |
-| [TheoLeeCJ/SemIf](https://github.com/TheoLeeCJ/SemIf) | 2,923 | Python | Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe. |
-| [mcncarl/jianying-headless](https://github.com/mcncarl/jianying-headless) | 2,319 | Python | Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill. |
-| [jaredpalmer/kev](https://github.com/jaredpalmer/kev) | 1,936 | Python | tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own |
-| [TianyuCodings/NanoJev](https://github.com/TianyuCodings/NanoJev) | 1,746 | Python | A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline. |
+| [Contrastive-LM/CLM](https://github.com/Contrastive-LM/CLM) | 2,194 | Python |  |
+| [tobi/disktree](https://github.com/tobi/disktree) | 1,784 | Rust | A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI. |
+| [mexicat/pdoom-video](https://github.com/mexicat/pdoom-video) | 1,697 | TypeScript | Code-rendered music video for "I'm Upping My P(doom)" |
+| [yetone/magpie](https://github.com/yetone/magpie) | 1,569 | Go | Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar. |
+| [JohnHeibel/PDoomVideo](https://github.com/JohnHeibel/PDoomVideo) | 1,404 | JavaScript | Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom) |
+| [dzhng/jevgrep](https://github.com/dzhng/jevgrep) | 1,239 | TypeScript | Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant file... |
+| [mikehasa/golive-skill](https://github.com/mikehasa/golive-skill) | 1,036 | TypeScript | Take your agent-built product live: hosting, database, domain, email, payments — on your own acco... |
+| [kryvora-network/kryvora-node](https://github.com/kryvora-network/kryvora-node) | 1,028 | Go | Reference client daemon and verification worker for Kryvora Network nodes. |
+| [852wa/JIZURA](https://github.com/852wa/JIZURA) | 949 | HTML | 歌詞から文字PVを自動で組み立てるブラウザアプリ |
+| [Niko1221/Strata](https://github.com/Niko1221/Strata) | 921 | C++ | Qwen3.8-Flash-Next (125B MoE) on a 8GB+ NVIDIA GPU: one-click install for Windows / Linux. Strata... |
 
 ## 🤖 AI Agents & LLM Tools
 
 | Repo | ⭐ Stars | Language | Description |
 |---|---|---|---|
-| [awlevin/typesafe-computer-use](https://github.com/awlevin/typesafe-computer-use) | 722 | Python | Computer use for about $0.0002 a step: OCR the screen, classify the next action with TypeSafe, cl... |
-| [AbdelStark/awesome-typesafe-jev](https://github.com/AbdelStark/awesome-typesafe-jev) | 422 | JavaScript | Awesome Jev: a source-backed field guide to TypeSafe's System One model, with SDKs, live demos, a... |
-| [ethanplusai/astra-flash-orchestrator](https://github.com/ethanplusai/astra-flash-orchestrator) | 352 | Python | Astra plans and reviews; DeepSeek Flash builds. A native Codex workflow with phased tasks, verifi... |
-| [cobanov/awesome-jev](https://github.com/cobanov/awesome-jev) | 301 | — | A curated, source-backed list of projects built with Jev, TypeSafe AI's System One model for type... |
-| [logicrw/awesome-jev-projects](https://github.com/logicrw/awesome-jev-projects) | 287 | JavaScript | Awesome Jev: source-backed open-source ecosystem radar, plain-language project discovery, and aut... |
-| [ruc-datalab/EvoOntology](https://github.com/ruc-datalab/EvoOntology) | 250 | Python | EvoOntology: A Self-Evolving Ontology Layer for Data Agents ⚙️ EvoOntology插件为Claude Code/Codex 建立... |
-| [Heman10x-NGU/openJev-verdict-2.0](https://github.com/Heman10x-NGU/openJev-verdict-2.0) | 234 | Python | Calibrated 151M Non-Autoregressive Decision Engine beating TypeSafe Jev & Laya on LocalLLaMA/type... |
-| [Oldcircle/geo-sleuth](https://github.com/Oldcircle/geo-sleuth) | 226 | Python | An agent skill that finds where a photo was taken — OpenStreetMap geometry, elevation skylines, s... |
+| [mikehasa/golive-skill](https://github.com/mikehasa/golive-skill) | 1,036 | TypeScript | Take your agent-built product live: hosting, database, domain, email, payments — on your own acco... |
+| [kydlikebtc/awesome-jev](https://github.com/kydlikebtc/awesome-jev) | 582 | Python | 1207 public resources for Jev, TypeSafe AI's System One decision model, indexed by decision patte... |
+| [lemomo-ai/lemo-opuscar](https://github.com/lemomo-ai/lemo-opuscar) | 501 | JavaScript | 39 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Op... |
+| [amitshekhariitbhu/ai-system-design](https://github.com/amitshekhariitbhu/ai-system-design) | 461 | Markdown | AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Agents step by step. |
+| [zouyuxuan122/dsh-our-free-model](https://github.com/zouyuxuan122/dsh-our-free-model) | 345 | JavaScript | 在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 Muse Spark 1.3、MiMo V2.6 在内的前沿模型——完全免费，不限量。 All you do i... |
+| [angel291592/Intent-Router](https://github.com/angel291592/Intent-Router) | 226 | Python | Intent compiler for AI agents — converges vague requests into typed IntentSpec contracts (probe, ... |
+| [XiaoPuOuO/openchatx-mcp](https://github.com/XiaoPuOuO/openchatx-mcp) | 193 | TypeScript | Turn ChatGPT into a local agent runtime. Operate your computer, use local tools, discover MCP ser... |
+| [ZCodium-project/ZCodium](https://github.com/ZCodium-project/ZCodium) | 148 | TypeScript | ZCodium，Independent audit fork of ZCode (ZCode → ZCodium). All monitoring and telemetry removed; ... |
 
 ## 🛡️ Security, Hacking & Pentesting
 
 | Repo | ⭐ Stars | Language | Description |
 |---|---|---|---|
-| [shaheeryasirofficial/SmuggleMyPayload](https://github.com/shaheeryasirofficial/SmuggleMyPayload) | 36 | Python | SmuggleMyPayload generates HTML pages that embed and reconstruct files client-side using JavaScri... |
-| [mdpsec/should-i-submit](https://github.com/mdpsec/should-i-submit) | 26 | — | A local, safety-first pre-submission reviewer for bug bounty reports. |
-| [vitalsecurity/awesome-cissp](https://github.com/vitalsecurity/awesome-cissp) | 23 | — | A last-mile CISSP guide for security architects: the business side of cyber (risk, governance, la... |
-| [BillyBobMcgee/footprint-osint](https://github.com/BillyBobMcgee/footprint-osint) | 19 | Python | Defensive OSINT exposure checker: see what an email, password, domain or username leaks in public... |
-| [kulchankas/paranoid](https://github.com/kulchankas/paranoid) | 13 | Python | Your app is guilty until proven secure: an agent skill whose /hack-me breaks into your own runnin... |
-| [DevCop95/dev101x-pentest-lab](https://github.com/DevCop95/dev101x-pentest-lab) | 9 | Python | Self-contained Docker Pro Lab for pentest practice: boolean blind SQLi + hashcat cracking, web pa... |
-| [GarvitAgrawal04/SENTINEL](https://github.com/GarvitAgrawal04/SENTINEL) | 8 | Python | Sentinel shows what a file would make your AI coding agent do. Static analyzer, merge gate and si... |
-| [bytemonk-academy/owasp-agentic-lab](https://github.com/bytemonk-academy/owasp-agentic-lab) | 7 | TypeScript | Weekend lab for the OWASP Top 10 for Agentic Applications. Build an agent, break it five ways, th... |
+| [graygnatconsole/mcp-audit-tool](https://github.com/graygnatconsole/mcp-audit-tool) | 120 | Python | 🛡️ Security audit CLI for Model Context Protocol (MCP) servers — scan AI agent configs for tool p... |
+| [mrtinkz/ai-charter](https://github.com/mrtinkz/ai-charter) | 108 | TypeScript | Universal AI Charter: plain-language governance principles and a public certification registry fo... |
+| [Mister-iks/pcybox-attackgraph](https://github.com/Mister-iks/pcybox-attackgraph) | 33 | TypeScript | Open source browser lab to build a simulated infrastructure, watch an attack move through it, and... |
+| [alicewe1/alice_skill](https://github.com/alicewe1/alice_skill) | 26 | Python | Alice 集成技能包 · 放进去就能用 · Drop-in skill suite for AI coding agents |
+| [SagarBiswas-MultiHAT/The-BlackHAT-roadmap](https://github.com/SagarBiswas-MultiHAT/The-BlackHAT-roadmap) | 20 | C | The complete hacking & penetration testing roadmap. From beginner to elite. 44,982 lines, 150+ Di... |
+| [prox0959/CyberCodex](https://github.com/prox0959/CyberCodex) | 19 | Python | Autonomous 23-Source Zero-Cost OSINT, Binary Image Forensics (EXIF/GPS/Stego), Data Breach/Leak &... |
+| [shaheeryasirofficial/ClickMyPayload](https://github.com/shaheeryasirofficial/ClickMyPayload) | 16 | Python | Browser-Based Clickfix Generator |
+| [prox0959/MemGuard](https://github.com/prox0959/MemGuard) | 16 | Python | MemGuard v2.0 (by @prox0959) - Zero-dependency Windows EDR utility: NT kernel handle table audito... |
 
 ## 🐹 Go Projects
 
 | Repo | ⭐ Stars | Language | Description |
 |---|---|---|---|
-| [mitkox/esf](https://github.com/mitkox/esf) | 76 | Go | Self-hosted engineering software factory: Temporal, CubeSandbox agents, deterministic verificatio... |
-| [Alurith/jeff](https://github.com/Alurith/jeff) | 33 | Go | Catch code issues before they catch you. |
-| [singhand-labs/AegisCrawler](https://github.com/singhand-labs/AegisCrawler) | 14 | Go | Record once, replay forever — a production-grade browser data-collection platform. A PageResearch... |
-| [Shenrui-Ma/Laodi](https://github.com/Shenrui-Ma/Laodi) | 14 | Go | 不要偷偷上传代码啊魂淡！ |
-| [ismailperim/briefd](https://github.com/ismailperim/briefd) | 13 | Go | Your agents, briefed. Not flooded. Self-hosted context compiler: git-backed team knowledge served... |
-| [dxui-org/dxui](https://github.com/dxui-org/dxui) | 11 | Go | A declarative desktop GUI framework for Go. |
-| [dextok/sub2api-state-guard](https://github.com/dextok/sub2api-state-guard) | 10 | Go | Sub2api State Guard：sub2api 插件，为 OpenAI OAuth 账号自建 x-codex-turn-state 算力票池，按模型铸票并在转发时注入，不依赖任何外部服务端 |
-| [SteamedBread2333/imprint](https://github.com/SteamedBread2333/imprint) | 9 | Go | 💡A vault of project policy for AI agents. You talk; the agent writes, links docs, and recalls. CL... |
+| [kryvora-network/kryvora-node](https://github.com/kryvora-network/kryvora-node) | 1,028 | Go | Reference client daemon and verification worker for Kryvora Network nodes. |
+| [mattn/go-jev](https://github.com/mattn/go-jev) | 40 | Go | Go SDK and CLI for TypeSafe Jev: typed decisions (yes/no, choice, score) from a model |
+| [huangmoling/EmbyMetaEditor](https://github.com/huangmoling/EmbyMetaEditor) | 13 | Go | Emby 元数据编辑器：Go 单文件 exe + 内嵌 Web UI，集成 MetaTube 刮削、gfriends 头像库、javbus 番号补全与磁力列表 |
+| [devilcoolyue/agentbox](https://github.com/devilcoolyue/agentbox) | 12 | Go | Self-hosted browser workspace for Claude Code and Codex CLI, with Docker sessions, terminal, file... |
+| [bjarneo/st8ks](https://github.com/bjarneo/st8ks) | 12 | Go | A fast Kubernetes desktop client for Linux, macOS and Windows that finds what is broken and helps... |
+| [dark-hxx/jev-safety-gateway](https://github.com/dark-hxx/jev-safety-gateway) | 11 | Go | 位于 nginx 与大模型后端之间的前置过滤反向代理：逐请求提取用户输入交给 JEV 判定，有害拦截、正常透明放行 |
+| [zhangsijie03/AstraBridge](https://github.com/zhangsijie03/AstraBridge) | 10 | Go | AstraBridge · 星桥：面向 AiMaMi 的本地 BPS Responses 桌面中转，支持 macOS、Windows 和原生图片附件。 |
+| [konradasb/dicer](https://github.com/konradasb/dicer) | 10 | Go | Dice bare metal hosts into thousands of Micro VMs |
 
 ## 🛠️ Developer Tools & CLI
 
 | Repo | ⭐ Stars | Language | Description |
 |---|---|---|---|
-| [AbdelStark/awesome-typesafe-jev](https://github.com/AbdelStark/awesome-typesafe-jev) | 422 | JavaScript | Awesome Jev: a source-backed field guide to TypeSafe's System One model, with SDKs, live demos, a... |
-| [ethanplusai/astra-flash-orchestrator](https://github.com/ethanplusai/astra-flash-orchestrator) | 352 | Python | Astra plans and reviews; DeepSeek Flash builds. A native Codex workflow with phased tasks, verifi... |
-| [logicrw/awesome-jev-projects](https://github.com/logicrw/awesome-jev-projects) | 287 | JavaScript | Awesome Jev: source-backed open-source ecosystem radar, plain-language project discovery, and aut... |
-| [Marcos66236/github-stars-history](https://github.com/Marcos66236/github-stars-history) | 277 | Python | Track and visualize the stars history of any GitHub repository. Open-source growth analytics and ... |
-| [sutro-sh/jev-align](https://github.com/sutro-sh/jev-align) | 258 | Python | Build calibrated AI Functions from human feedback using Jev and GEPA. |
-| [nMaas8388/github-ranking-audit](https://github.com/nMaas8388/github-ranking-audit) | 213 | Python | Audit your GitHub repository search ranking signals. Checks name, description, topics, README, st... |
-| [repoboost-hq/github-launch-checklist](https://github.com/repoboost-hq/github-launch-checklist) | 194 | Python | Audit a GitHub repository before launch - ten readiness checks scored 0-10: name, description, to... |
-| [NiazMorshed2007/jev-review](https://github.com/NiazMorshed2007/jev-review) | 193 | TypeScript | Local-first MCP plugin for continuous software-quality review by AI coding agents, powered by Jev. |
+| [dzhng/jevgrep](https://github.com/dzhng/jevgrep) | 1,240 | TypeScript | Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant file... |
+| [mikehasa/golive-skill](https://github.com/mikehasa/golive-skill) | 1,036 | TypeScript | Take your agent-built product live: hosting, database, domain, email, payments — on your own acco... |
+| [zouyuxuan122/dsh-our-free-model](https://github.com/zouyuxuan122/dsh-our-free-model) | 345 | JavaScript | 在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 Muse Spark 1.3、MiMo V2.6 在内的前沿模型——完全免费，不限量。 All you do i... |
+| [edison-land/paragravity](https://github.com/edison-land/paragravity) | 219 | Python | Native, non-invasive parallel multi-account & sandbox manager for Google Antigravity |
+| [CaptureGrubEnchant/homebrew-tools-macOS](https://github.com/CaptureGrubEnchant/homebrew-tools-macOS) | 131 | Ruby | 🍺 Personal Homebrew tap for custom macOS formulas, CLI utilities, and developer scripts. |
+| [PointAntStorm/grok-self](https://github.com/PointAntStorm/grok-self) | 123 | JavaScript | grok-cli-self the lightweight, zero-dependency Grok CLI. Chat with xAI's Grok AI (Grok 4) in your... |
+| [RamitVishwakarma/Janus](https://github.com/RamitVishwakarma/Janus) | 108 | Swift | Switch between Claude Code accounts and clear developer caches, from the macOS menu bar. |
+| [scarletkc/seiso](https://github.com/scarletkc/seiso) | 93 | Rust | A Markdown convention and linter for project docs written by AI and read by humans and agents |
 
 ## ⚙️ DevOps & Infrastructure
 
 | Repo | ⭐ Stars | Language | Description |
 |---|---|---|---|
-| [MishraShardendu22/agent-skills-engine](https://github.com/MishraShardendu22/agent-skills-engine) | 6 | — | Centralized library of modular, deterministic AI agent skills (SKILL.md) with bidirectional hub-a... |
-| [MishraShardendu22/repo-transfer-engine](https://github.com/MishraShardendu22/repo-transfer-engine) | 6 | — | Enterprise Go microservice suite for concurrent GitHub repository transfers across organizations ... |
-| [0x0f0f0f/alchemy-likec4](https://github.com/0x0f0f0f/alchemy-likec4) | 3 | TypeScript | Automatically generate a spec and interactive diagrams for your infra from Alchemy stacks! |
-| [shubham-pawar/awesome-open-source](https://github.com/shubham-pawar/awesome-open-source) | 3 | — | A thoughtfully curated atlas of outstanding open-source software, frameworks, and tools—helping b... |
-| [ishandutta2007/Awesome-Internal-Developer-Platform](https://github.com/ishandutta2007/Awesome-Internal-Developer-Platform) | 3 | — | Top Internal Developer Platform (IDP) (Opensource) 🌟 Star if you like it! 🌟 |
-| [ishandutta2007/Awesome-Preview-Environment-Platform](https://github.com/ishandutta2007/Awesome-Preview-Environment-Platform) | 2 | — | Top Preview Environment Platform (Opensource) 🌟 Star if you like it! 🌟 |
-| [halvantic/hyperv-control-plane](https://github.com/halvantic/hyperv-control-plane) | 2 | Go | Declarative agent for Hyper-V hosts and failover clusters. The open-source component of Ballast. |
-| [DevOps-spb-ru/DevOps-Engineer-Tools](https://github.com/DevOps-spb-ru/DevOps-Engineer-Tools) | 2 | Go | Набор утилит для DevOps-инженеров. Каждый инструмент живёт в отдельном каталоге и имеет собственн... |
+| [mikehasa/golive-skill](https://github.com/mikehasa/golive-skill) | 1,036 | TypeScript | Take your agent-built product live: hosting, database, domain, email, payments — on your own acco... |
+| [defitier-sdk/0audit.com](https://github.com/defitier-sdk/0audit.com) | 89 | Python | Developer SDK, CLI & AI search intent index for 0audit.com — Fast Website Diagnostics, Technical ... |
+| [jpolec/hetzner-cloud-audit-skills](https://github.com/jpolec/hetzner-cloud-audit-skills) | 16 | Python | Evidence-backed attack paths, drift, and cost auditing for Hetzner Cloud. |
+| [upgundecha/awesome-cloud-emulators](https://github.com/upgundecha/awesome-cloud-emulators) | 9 | JavaScript | A curated list of cloud emulators and local cloud development tools for AWS, Azure, and Google Cl... |
+| [Perruer/unclick](https://github.com/Perruer/unclick) | 8 | Go | Turn existing cloud resources into OpenTofu / Terraform code. Continuation of Terraformer: protoc... |
+| [ProbiusOfficial/NexTerm](https://github.com/ProbiusOfficial/NexTerm) | 7 | TypeScript | 一体化开发运维终端 —— SSH · WinRM · 文件 · Docker · 数据库 · AI，装进同一个窗口 |
+| [FlashyLabs/flashyos-tools](https://github.com/FlashyLabs/flashyos-tools) | 6 | JavaScript | ⚡️ Two small answers to questions that fail silently: which directory each domain in your repo ac... |
+| [FlashyLabs/mesh-lint](https://github.com/FlashyLabs/mesh-lint) | 5 | JavaScript | ⚡️  A GitHub Action for checks that fail silently: JSON Schema $id fields that 404, packages publ... |
 
 <!-- TRENDING:END -->
 
