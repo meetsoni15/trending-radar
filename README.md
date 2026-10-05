@@ -18,87 +18,87 @@ Categories tracked:
 Want a category added or removed? Edit `categories` in [scripts/update_trending.go](scripts/update_trending.go).
 
 <!-- TRENDING:START -->
-_Last updated: **2026-09-28** (UTC) · repos created in the last 7 days_
+_Last updated: **2026-10-05** (UTC) · repos created in the last 7 days_
 
 ## 🔥 New This Week (overall)
 
 | Repo | ⭐ Stars | Language | Description |
 |---|---|---|---|
-| [Contrastive-LM/CLM](https://github.com/Contrastive-LM/CLM) | 2,194 | Python |  |
-| [tobi/disktree](https://github.com/tobi/disktree) | 1,784 | Rust | A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI. |
-| [mexicat/pdoom-video](https://github.com/mexicat/pdoom-video) | 1,697 | TypeScript | Code-rendered music video for "I'm Upping My P(doom)" |
-| [yetone/magpie](https://github.com/yetone/magpie) | 1,569 | Go | Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar. |
-| [JohnHeibel/PDoomVideo](https://github.com/JohnHeibel/PDoomVideo) | 1,404 | JavaScript | Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom) |
-| [dzhng/jevgrep](https://github.com/dzhng/jevgrep) | 1,239 | TypeScript | Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant file... |
-| [mikehasa/golive-skill](https://github.com/mikehasa/golive-skill) | 1,036 | TypeScript | Take your agent-built product live: hosting, database, domain, email, payments — on your own acco... |
-| [kryvora-network/kryvora-node](https://github.com/kryvora-network/kryvora-node) | 1,028 | Go | Reference client daemon and verification worker for Kryvora Network nodes. |
-| [852wa/JIZURA](https://github.com/852wa/JIZURA) | 949 | HTML | 歌詞から文字PVを自動で組み立てるブラウザアプリ |
-| [Niko1221/Strata](https://github.com/Niko1221/Strata) | 921 | C++ | Qwen3.8-Flash-Next (125B MoE) on a 8GB+ NVIDIA GPU: one-click install for Windows / Linux. Strata... |
+| [rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder) | 3,682 | Python | Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC ga... |
+| [CopilotKit/OpenDots](https://github.com/CopilotKit/OpenDots) | 3,557 | TypeScript | Your always-on AI coworkers that move between text, calls, and Slack. |
+| [feder-cr/dots](https://github.com/feder-cr/dots) | 2,613 | Python | Open-source dots for the web: an AI agent with its own browser, one that does not get blocked. |
+| [storytold/photocraft](https://github.com/storytold/photocraft) | 1,771 | Rust | An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust |
+| [omlahore/RemoveMacAI](https://github.com/omlahore/RemoveMacAI) | 1,580 | Swift | Turn off Apple Intelligence on macOS 27 and get its disk space back. One command, fully reversible. |
+| [nykooi1/vibe-wise](https://github.com/nykooi1/vibe-wise) | 1,510 | Python | A Claude Code plugin that helps you learn how to build while AI writes the code. |
+| [nanaism/yomiyasu](https://github.com/nanaism/yomiyasu) | 1,495 | Python | AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Jap... |
+| [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) | 1,452 | JavaScript | Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can act... |
+| [wy51ai/floorplan-3d](https://github.com/wy51ai/floorplan-3d) | 1,419 | HTML |  |
+| [facebookincubator/muse-gadget-sdk](https://github.com/facebookincubator/muse-gadget-sdk) | 1,383 | C | Open source SDK to build Muse gadgets |
 
 ## 🤖 AI Agents & LLM Tools
 
 | Repo | ⭐ Stars | Language | Description |
 |---|---|---|---|
-| [mikehasa/golive-skill](https://github.com/mikehasa/golive-skill) | 1,036 | TypeScript | Take your agent-built product live: hosting, database, domain, email, payments — on your own acco... |
-| [kydlikebtc/awesome-jev](https://github.com/kydlikebtc/awesome-jev) | 582 | Python | 1207 public resources for Jev, TypeSafe AI's System One decision model, indexed by decision patte... |
-| [lemomo-ai/lemo-opuscar](https://github.com/lemomo-ai/lemo-opuscar) | 501 | JavaScript | 39 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Op... |
-| [amitshekhariitbhu/ai-system-design](https://github.com/amitshekhariitbhu/ai-system-design) | 461 | Markdown | AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Agents step by step. |
-| [zouyuxuan122/dsh-our-free-model](https://github.com/zouyuxuan122/dsh-our-free-model) | 345 | JavaScript | 在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 Muse Spark 1.3、MiMo V2.6 在内的前沿模型——完全免费，不限量。 All you do i... |
-| [angel291592/Intent-Router](https://github.com/angel291592/Intent-Router) | 226 | Python | Intent compiler for AI agents — converges vague requests into typed IntentSpec contracts (probe, ... |
-| [XiaoPuOuO/openchatx-mcp](https://github.com/XiaoPuOuO/openchatx-mcp) | 193 | TypeScript | Turn ChatGPT into a local agent runtime. Operate your computer, use local tools, discover MCP ser... |
-| [ZCodium-project/ZCodium](https://github.com/ZCodium-project/ZCodium) | 148 | TypeScript | ZCodium，Independent audit fork of ZCode (ZCode → ZCodium). All monitoring and telemetry removed; ... |
+| [feder-cr/dots](https://github.com/feder-cr/dots) | 2,613 | Python | Open-source dots for the web: an AI agent with its own browser, one that does not get blocked. |
+| [BootLoops-ai/bootloops](https://github.com/BootLoops-ai/bootloops) | 265 | Python | BootLoops 1.0: certified computational tools and house engines for exact and high-precision physi... |
+| [justxor/claude-code-pro-course](https://github.com/justxor/claude-code-pro-course) | 233 | Shell | Claude Code PRO — полный курс и гайд на русском: CLAUDE.md, settings, skills, subagents, hooks, M... |
+| [hyj-STAR/voiceshell-muse-bridge](https://github.com/hyj-STAR/voiceshell-muse-bridge) | 123 | Python | VoiceShell（声壳） · Experimental Muse bridge: ESP32 pairing, Linux text round trips, real walkthroug... |
+| [Chengjun023/agent-smith](https://github.com/Chengjun023/agent-smith) | 123 | Python | Token 超支？快给史密斯打电话！ Better Call Smith. Adaptive model routing, a glassy Codex usage monitor, and r... |
+| [hamzafer/claude-code-mods](https://github.com/hamzafer/claude-code-mods) | 98 | TypeScript | A collection of Claude Code mods: live lines above the prompt, guards, panes and games. |
+| [xop01/ai_goodpractice](https://github.com/xop01/ai_goodpractice) | 96 | — | full guide to help you integrate AI in your workflow, for both beginners and experienced users |
+| [mikamikasuki/FOREST](https://github.com/mikamikasuki/FOREST) | 70 | Python | FOREST is a research agent for long-horizon science, where evidence gets lost, errors compound, a... |
 
 ## 🛡️ Security, Hacking & Pentesting
 
 | Repo | ⭐ Stars | Language | Description |
 |---|---|---|---|
-| [graygnatconsole/mcp-audit-tool](https://github.com/graygnatconsole/mcp-audit-tool) | 120 | Python | 🛡️ Security audit CLI for Model Context Protocol (MCP) servers — scan AI agent configs for tool p... |
-| [mrtinkz/ai-charter](https://github.com/mrtinkz/ai-charter) | 108 | TypeScript | Universal AI Charter: plain-language governance principles and a public certification registry fo... |
-| [Mister-iks/pcybox-attackgraph](https://github.com/Mister-iks/pcybox-attackgraph) | 33 | TypeScript | Open source browser lab to build a simulated infrastructure, watch an attack move through it, and... |
-| [alicewe1/alice_skill](https://github.com/alicewe1/alice_skill) | 26 | Python | Alice 集成技能包 · 放进去就能用 · Drop-in skill suite for AI coding agents |
-| [SagarBiswas-MultiHAT/The-BlackHAT-roadmap](https://github.com/SagarBiswas-MultiHAT/The-BlackHAT-roadmap) | 20 | C | The complete hacking & penetration testing roadmap. From beginner to elite. 44,982 lines, 150+ Di... |
-| [prox0959/CyberCodex](https://github.com/prox0959/CyberCodex) | 19 | Python | Autonomous 23-Source Zero-Cost OSINT, Binary Image Forensics (EXIF/GPS/Stego), Data Breach/Leak &... |
-| [shaheeryasirofficial/ClickMyPayload](https://github.com/shaheeryasirofficial/ClickMyPayload) | 16 | Python | Browser-Based Clickfix Generator |
-| [prox0959/MemGuard](https://github.com/prox0959/MemGuard) | 16 | Python | MemGuard v2.0 (by @prox0959) - Zero-dependency Windows EDR utility: NT kernel handle table audito... |
+| [mdpsec/bug-bounty-hunting-prompts](https://github.com/mdpsec/bug-bounty-hunting-prompts) | 370 | — | Reusable prompts for a structured, evidence-first bug bounty hunting workflow |
+| [aixisstudio/Snitch](https://github.com/aixisstudio/Snitch) | 62 | Python | Real-time network traffic visualizer — see every connection your computer makes. Privacy-first, 1... |
+| [Kerlooo/FreeOSINTUI](https://github.com/Kerlooo/FreeOSINTUI) | 53 | JavaScript | Free alternative to https://osint-ui.com |
+| [e2sy/jailbreak-archives](https://github.com/e2sy/jailbreak-archives) | 22 | Roff | A structured, versioned archive of adversarial prompt engineering techniques against Large Langua... |
+| [kaifcodec/phonsint](https://github.com/kaifcodec/phonsint) | 14 | Python | 🕵️‍♂️ Advanced phone number OSINT suite engineered for silent reconnaissance. Extracts masked ema... |
+| [nikolov9996/agent-friendly-smart-contract-audit-findings](https://github.com/nikolov9996/agent-friendly-smart-contract-audit-findings) | 13 | Python | Agent-friendly smart-contract audit findings dataset with searchable Markdown records and structu... |
+| [ADScanPro/ad-audit-wordlist](https://github.com/ADScanPro/ad-audit-wordlist) | 13 | Shell | The Kerberoasting / AD password-audit wordlist I use on engagements: priority-merged HashMob larg... |
+| [everafterlabs/jes](https://github.com/everafterlabs/jes) | 12 | Python | Open-source guardrails for AI agents powered by decision models like Jev; checks prompts, retriev... |
 
 ## 🐹 Go Projects
 
 | Repo | ⭐ Stars | Language | Description |
 |---|---|---|---|
-| [kryvora-network/kryvora-node](https://github.com/kryvora-network/kryvora-node) | 1,028 | Go | Reference client daemon and verification worker for Kryvora Network nodes. |
-| [mattn/go-jev](https://github.com/mattn/go-jev) | 40 | Go | Go SDK and CLI for TypeSafe Jev: typed decisions (yes/no, choice, score) from a model |
-| [huangmoling/EmbyMetaEditor](https://github.com/huangmoling/EmbyMetaEditor) | 13 | Go | Emby 元数据编辑器：Go 单文件 exe + 内嵌 Web UI，集成 MetaTube 刮削、gfriends 头像库、javbus 番号补全与磁力列表 |
-| [devilcoolyue/agentbox](https://github.com/devilcoolyue/agentbox) | 12 | Go | Self-hosted browser workspace for Claude Code and Codex CLI, with Docker sessions, terminal, file... |
-| [bjarneo/st8ks](https://github.com/bjarneo/st8ks) | 12 | Go | A fast Kubernetes desktop client for Linux, macOS and Windows that finds what is broken and helps... |
-| [dark-hxx/jev-safety-gateway](https://github.com/dark-hxx/jev-safety-gateway) | 11 | Go | 位于 nginx 与大模型后端之间的前置过滤反向代理：逐请求提取用户输入交给 JEV 判定，有害拦截、正常透明放行 |
-| [zhangsijie03/AstraBridge](https://github.com/zhangsijie03/AstraBridge) | 10 | Go | AstraBridge · 星桥：面向 AiMaMi 的本地 BPS Responses 桌面中转，支持 macOS、Windows 和原生图片附件。 |
-| [konradasb/dicer](https://github.com/konradasb/dicer) | 10 | Go | Dice bare metal hosts into thousands of Micro VMs |
+| [hashcott/ghostline](https://github.com/hashcott/ghostline) | 47 | Go | One-click encrypted DNS (DoH/DoT/DoQ/DNSCrypt), DPI bypass with zapret2 or GoodbyeDPI, a local HT... |
+| [LAGcomcom/zen-gate](https://github.com/LAGcomcom/zen-gate) | 20 | Go | 把 OpenCode Zen 免费模型装进你所有的 AI Agent —— Windows 托盘网关，OpenAI/Anthropic 兼容，自动适配 10+ Agent，限流自动切换 |
+| [Perpeer/lazychat](https://github.com/Perpeer/lazychat) | 20 | Go | One terminal for all your AI coding agents. Run Claude Code and Codex side by side, see which one... |
+| [kaitencloud/kaiten](https://github.com/kaitencloud/kaiten) | 18 | Go | Kaiten — the control plane for software you sell |
+| [olucurious/watchtower](https://github.com/olucurious/watchtower) | 13 | Go | Self-hosted error tracking. A drop-in for Sentry and AppSignal SDKs: one Go binary and Postgres, ... |
+| [0xgetz/shioriai2api](https://github.com/0xgetz/shioriai2api) | 8 | Go | Turn shiori.ai into an OpenAI-compatible API — pure Go, zero dependencies, streaming, reasoning, ... |
+| [konradasb/rungar](https://github.com/konradasb/rungar) | 7 | Go | Run GitHub Actions Runners |
+| [pinkpixel-dev/skyline](https://github.com/pinkpixel-dev/skyline) | 7 | Go | Your GitHub contribution graph as an ASCII city, in the terminal or as an animated SVG for your p... |
 
 ## 🛠️ Developer Tools & CLI
 
 | Repo | ⭐ Stars | Language | Description |
 |---|---|---|---|
-| [dzhng/jevgrep](https://github.com/dzhng/jevgrep) | 1,240 | TypeScript | Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant file... |
-| [mikehasa/golive-skill](https://github.com/mikehasa/golive-skill) | 1,036 | TypeScript | Take your agent-built product live: hosting, database, domain, email, payments — on your own acco... |
-| [zouyuxuan122/dsh-our-free-model](https://github.com/zouyuxuan122/dsh-our-free-model) | 345 | JavaScript | 在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 Muse Spark 1.3、MiMo V2.6 在内的前沿模型——完全免费，不限量。 All you do i... |
-| [edison-land/paragravity](https://github.com/edison-land/paragravity) | 219 | Python | Native, non-invasive parallel multi-account & sandbox manager for Google Antigravity |
-| [CaptureGrubEnchant/homebrew-tools-macOS](https://github.com/CaptureGrubEnchant/homebrew-tools-macOS) | 131 | Ruby | 🍺 Personal Homebrew tap for custom macOS formulas, CLI utilities, and developer scripts. |
-| [PointAntStorm/grok-self](https://github.com/PointAntStorm/grok-self) | 123 | JavaScript | grok-cli-self the lightweight, zero-dependency Grok CLI. Chat with xAI's Grok AI (Grok 4) in your... |
-| [RamitVishwakarma/Janus](https://github.com/RamitVishwakarma/Janus) | 108 | Swift | Switch between Claude Code accounts and clear developer caches, from the macOS menu bar. |
-| [scarletkc/seiso](https://github.com/scarletkc/seiso) | 93 | Rust | A Markdown convention and linter for project docs written by AI and read by humans and agents |
+| [omlahore/RemoveMacAI](https://github.com/omlahore/RemoveMacAI) | 1,580 | Swift | Turn off Apple Intelligence on macOS 27 and get its disk space back. One command, fully reversible. |
+| [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) | 1,452 | JavaScript | Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can act... |
+| [GanyuanRan/Autoloom](https://github.com/GanyuanRan/Autoloom) | 187 | JavaScript | AI coding with Aegis governance built into execution: baseline-aware changes, evidence-backed del... |
+| [NuvexNetwork/nuvex](https://github.com/NuvexNetwork/nuvex) | 140 | Rust | Solana-native verifiable compute and oracle protocol.  Programs accept a job, an input, constrain... |
+| [ACoci86/terrahour](https://github.com/ACoci86/terrahour) | 130 | Python | A world clock for the terminal, with a day and night map and a 24-hour timeline to find a time th... |
+| [Asigers/pi-knock](https://github.com/Asigers/pi-knock) | 112 | TypeScript | Remote notifications for the Pi coding agent — Pushover, ntfy, and webhooks when tasks finish or ... |
+| [hamzafer/claude-code-mods](https://github.com/hamzafer/claude-code-mods) | 98 | TypeScript | A collection of Claude Code mods: live lines above the prompt, guards, panes and games. |
+| [Btluo1/ccb](https://github.com/Btluo1/ccb) | 61 | JavaScript | CCB · AI 编程助手一键配置 —— 把 Trae / Qoder / CodeBuddy / WorkBuddy / Cursor / ZCode 等客户端一键接入 CCB：全部模型自动写... |
 
 ## ⚙️ DevOps & Infrastructure
 
 | Repo | ⭐ Stars | Language | Description |
 |---|---|---|---|
-| [mikehasa/golive-skill](https://github.com/mikehasa/golive-skill) | 1,036 | TypeScript | Take your agent-built product live: hosting, database, domain, email, payments — on your own acco... |
-| [defitier-sdk/0audit.com](https://github.com/defitier-sdk/0audit.com) | 89 | Python | Developer SDK, CLI & AI search intent index for 0audit.com — Fast Website Diagnostics, Technical ... |
-| [jpolec/hetzner-cloud-audit-skills](https://github.com/jpolec/hetzner-cloud-audit-skills) | 16 | Python | Evidence-backed attack paths, drift, and cost auditing for Hetzner Cloud. |
-| [upgundecha/awesome-cloud-emulators](https://github.com/upgundecha/awesome-cloud-emulators) | 9 | JavaScript | A curated list of cloud emulators and local cloud development tools for AWS, Azure, and Google Cl... |
-| [Perruer/unclick](https://github.com/Perruer/unclick) | 8 | Go | Turn existing cloud resources into OpenTofu / Terraform code. Continuation of Terraformer: protoc... |
-| [ProbiusOfficial/NexTerm](https://github.com/ProbiusOfficial/NexTerm) | 7 | TypeScript | 一体化开发运维终端 —— SSH · WinRM · 文件 · Docker · 数据库 · AI，装进同一个窗口 |
-| [FlashyLabs/flashyos-tools](https://github.com/FlashyLabs/flashyos-tools) | 6 | JavaScript | ⚡️ Two small answers to questions that fail silently: which directory each domain in your repo ac... |
-| [FlashyLabs/mesh-lint](https://github.com/FlashyLabs/mesh-lint) | 5 | JavaScript | ⚡️  A GitHub Action for checks that fail silently: JSON Schema $id fields that 404, packages publ... |
+| [TrainWithShubham/tws-labs](https://github.com/TrainWithShubham/tws-labs) | 9 | JavaScript | Hands-on DevOps, Cloud and AI labs in a real Linux terminal, graded on real machine state. Run lo... |
+| [rizlas/ostack9s](https://github.com/rizlas/ostack9s) | 5 | Python | Fast, k9s style terminal dashboard for OpenStack: servers, volumes, networks, quotas and GPUs acr... |
+| [kkhansameer94/cloud-native-cicd-platform](https://github.com/kkhansameer94/cloud-native-cicd-platform) | 3 | JavaScript | Production-grade GitOps & CI/CD pipeline automating microservice deployments to AWS EKS using Doc... |
+| [NotHarshhaa/devops-ai-implementation-ideas](https://github.com/NotHarshhaa/devops-ai-implementation-ideas) | 2 | — | A collection of practical, implementation-focused ideas showing how AI can be integrated into Dev... |
+| [Genuifx/NetPulse](https://github.com/Genuifx/NetPulse) | 2 | Python | One-command VPS network checkup 一键服务器网络体检：IP info, streaming unlock test, DNS leak check, speed t... |
+| [tarun9715m/terraform-planlens](https://github.com/tarun9715m/terraform-planlens) | 2 | TypeScript | See exactly what a Terraform or OpenTofu plan will create, update, replace and destroy, including... |
+| [jetonecloud/preflight](https://github.com/jetonecloud/preflight) | 2 | Python | Read-only, open-source AWS audit you run on your own machine. |
+| [takacj/keystone](https://github.com/takacj/keystone) | 2 | Swift | Native macOS app for browsing, searching and editing Azure Key Vault secrets across accounts, ten... |
 
 <!-- TRENDING:END -->
 
