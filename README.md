@@ -18,87 +18,87 @@ Categories tracked:
 Want a category added or removed? Edit `categories` in [scripts/update_trending.go](scripts/update_trending.go).
 
 <!-- TRENDING:START -->
-_Last updated: **2026-10-12** (UTC) · repos created in the last 7 days_
+_Last updated: **2026-10-19** (UTC) · repos created in the last 7 days_
 
 ## 🔥 New This Week (overall)
 
 | Repo | ⭐ Stars | Language | Description |
 |---|---|---|---|
-| [openai/math](https://github.com/openai/math) | 14,369 | Lean |  |
-| [storytold/wordcraft](https://github.com/storytold/wordcraft) | 8,580 | Rust | An open-source, clean-room reimplementation of Microsoft Word in pure Rust |
-| [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) | 5,627 | JavaScript | An agent skill for creating detailed, interactive isometric illustrations of real-world machines ... |
-| [storytold/gridcraft](https://github.com/storytold/gridcraft) | 3,635 | Rust | GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft. |
-| [alchaincyf/huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion) | 3,578 | JavaScript | 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。 |
-| [mhtsec/ARTEX](https://github.com/mhtsec/ARTEX) | 3,542 | Go | AI 自主渗透测试系统 / 百度“agent+”攻防挑战赛冠军项目 |
-| [zhongerxin/iPhone-use](https://github.com/zhongerxin/iPhone-use) | 3,345 | Python | 让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。 |
-| [storytold/cadcraft](https://github.com/storytold/cadcraft) | 3,299 | Rust | CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pu... |
-| [LosaLosSantos/aurelio-finance](https://github.com/LosaLosSantos/aurelio-finance) | 2,728 | Python | Open-source personal finance app with an AI financial advisor: track your net worth, investments,... |
-| [nullmoth/nvidia-macos-driver](https://github.com/nullmoth/nvidia-macos-driver) | 2,722 | Rust | Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source in... |
+| [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) | 4,022 | Java | Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home. |
+| [Arekejoker/qwen21-nsfw-pose-skill](https://github.com/Arekejoker/qwen21-nsfw-pose-skill) | 3,337 | Python | Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / ... |
+| [feder-cr/git-ai](https://github.com/feder-cr/git-ai) | 2,410 | Go | Git designed for AI agents. |
+| [HeyPuter/everything](https://github.com/HeyPuter/everything) | 2,301 | JavaScript | We're rebuilding and open-sourcing the world’s software from scratch. |
+| [ahwootech/BRUTAL](https://github.com/ahwootech/BRUTAL) | 1,958 | C# | A free, open source C# framework for making games, or your own game engine. Direct access to nati... |
+| [chenglou/handwired](https://github.com/chenglou/handwired) | 1,787 | TypeScript | Turn your regular JavaScript code into a neural net. |
+| [Supermedo/uncharted_pc](https://github.com/Supermedo/uncharted_pc) | 1,521 | C++ | Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo |
+| [ly05010419/MacNativeGames](https://github.com/ly05010419/MacNativeGames) | 1,474 | C |  |
+| [Leonxlnx/earshot](https://github.com/Leonxlnx/earshot) | 1,328 | Python | Ears for coding agents: let AI hear, review and make sound. CPU-only, open source. |
+| [Caho1/open-claude-ui](https://github.com/Caho1/open-claude-ui) | 1,242 | TypeScript | 基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析手册。 |
 
 ## 🤖 AI Agents & LLM Tools
 
 | Repo | ⭐ Stars | Language | Description |
 |---|---|---|---|
-| [franzenzenhofer/big-arrow-on-the-screen](https://github.com/franzenzenhofer/big-arrow-on-the-screen) | 661 | Swift | Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-through, g... |
-| [Gen-Verse/RSI-Anything](https://github.com/Gen-Verse/RSI-Anything) | 379 | HTML | RSI-Anything: Unlocking Recursive Self-Improvement with World Models |
-| [OrgoAI/bops](https://github.com/OrgoAI/bops) | 280 | TypeScript | Bops: a team of AI bots that run your business ops, each with its own computer, email and phone n... |
-| [fayazara/robot-heads](https://github.com/fayazara/robot-heads) | 277 | TypeScript | Animated 3D robot heads for React: TV-headed bots with LED faces that show what your agent is doing. |
-| [morluto/awesome-reverse-engineering](https://github.com/morluto/awesome-reverse-engineering) | 266 | — | Curated reverse-engineering tools and learning resources for binaries, apps, firmware, formats, a... |
-| [aindeev/agent-chrome-relay](https://github.com/aindeev/agent-chrome-relay) | 256 | Go | Let your AI agents use your Chrome, signed in as you, in background tabs. By Alexey Indeev · blog... |
-| [NousResearch/hermes-official-plugins](https://github.com/NousResearch/hermes-official-plugins) | 235 | Python | ☤ The official plugins for Hermes Agent, built and maintained by Nous Research: Home Assistant, S... |
-| [deeplethe/solid-glass](https://github.com/deeplethe/solid-glass) | 229 | TypeScript | A design system for AI applications. Material, physical, tactile, technical. |
+| [feder-cr/git-ai](https://github.com/feder-cr/git-ai) | 2,410 | Go | Git designed for AI agents. |
+| [Leonxlnx/earshot](https://github.com/Leonxlnx/earshot) | 1,328 | Python | Ears for coding agents: let AI hear, review and make sound. CPU-only, open source. |
+| [Zfinix/eleven](https://github.com/Zfinix/eleven) | 785 | TypeScript | Agent-first reverse engineering for macOS, Windows and Linux: any ACP agent reads, renames and pa... |
+| [i12bp8/decomp.wtf](https://github.com/i12bp8/decomp.wtf) | 506 | Python | What The Function: your AI agent decompiles games you own into C that compiles to the exact same ... |
+| [heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit](https://github.com/heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit) | 425 | Python | AI 跨境电商运营智能体工具箱 · 把运营 SOP 拆成 7 个可复用的 AI Agent 工作流，含 Prompt、模板与真实案例 |
+| [Graphicle-AI/graphicle](https://github.com/Graphicle-AI/graphicle) | 314 | Rust | Code graph and memory for your coding agents, in one Rust program. For Claude Code, Codex, Cursor... |
+| [EL4CTEO/blender-skills](https://github.com/EL4CTEO/blender-skills) | 269 | Python | Professional Blender 5.2 workflows as Agent Skills for Claude Code, Codex, Gemini CLI, Copilot an... |
+| [justxor/deepseek-local-guide-ru](https://github.com/justxor/deepseek-local-guide-ru) | 110 | Shell | 🐋 Полный гайд на русском: как установить и запустить DeepSeek локально (V4, R1) на ПК, Mac и серв... |
 
 ## 🛡️ Security, Hacking & Pentesting
 
 | Repo | ⭐ Stars | Language | Description |
 |---|---|---|---|
-| [morluto/awesome-reverse-engineering](https://github.com/morluto/awesome-reverse-engineering) | 266 | — | Curated reverse-engineering tools and learning resources for binaries, apps, firmware, formats, a... |
-| [bdg9412/artex-ko-plus](https://github.com/bdg9412/artex-ko-plus) | 165 | Go | ARTEX 한국어판 ·AI 기반 침해사고 대응 기능 추가 (upstream: Autumn-27/ARTEX, AGPL-3.0) |
-| [tsale/jevline](https://github.com/tsale/jevline) | 37 | TypeScript | Jevline: start from one confirmed-malicious process; Jev links the rest of the incident into a ti... |
-| [MorDavid/NucleiSniper](https://github.com/MorDavid/NucleiSniper) | 21 | Python | AI-powered Nuclei template prioritization using deep target fingerprinting and TypeSafe Jev to su... |
-| [Sahil-Hossain-1429/pentest-projects-discovery](https://github.com/Sahil-Hossain-1429/pentest-projects-discovery) | 17 | — | An automated way to discover practical, hands on penetration testing projects using Claude, with ... |
-| [Ch1ngg/Godzilla-MCP-Headless](https://github.com/Ch1ngg/Godzilla-MCP-Headless) | 17 | Java | 哥斯拉 MCP 无头版：不启动哥斯拉 GUI，直接用 stdio/HTTP 驱动你的 Webshell（生成马 / 命令执行 / 文件管理），兼容 Claude Desktop、Claude C... |
-| [bl4ckr0ss3/ttpscope](https://github.com/bl4ckr0ss3/ttpscope) | 16 | C | Terminal research and study client for MITRE ATT&CK® |
-| [Abhishek-Gali/HookRelay](https://github.com/Abhishek-Gali/HookRelay) | 11 | Python | Security-hardened webhook ingestion & multi-destination delivery gateway (GitHub ➔ Discord, Slack... |
+| [Fazmin/cve-intel](https://github.com/Fazmin/cve-intel) | 64 | Rust | Local security intelligence for CVE triage - 34 tools, 25 sources, risk scores and an MCP server ... |
+| [JoasASantos/Malvex](https://github.com/JoasASantos/Malvex) | 28 | Rust | AI-driven malware analysis framework with 30+ integrated tools, web REPL, and MCP server |
+| [kamalx06/TornadoC2](https://github.com/kamalx06/TornadoC2) | 28 | Python | Pull-based C2 framework with ten native transports, concurrent multi-profile handlers, and end-to... |
+| [opentrap/opentrap](https://github.com/opentrap/opentrap) | 24 | Java | Open-source web security testing suite built around an intercepting proxy. Crawl, intercept, repl... |
+| [shaheeryasirofficial/Cuban-Eight](https://github.com/shaheeryasirofficial/Cuban-Eight) | 23 | C | Cuban Eight is a red team tool that packages a Windows PE payload into a .wsl file spoofing a rea... |
+| [tiangang0245/MCP-checkup](https://github.com/tiangang0245/MCP-checkup) | 21 | Python | Offline, read-only MCP config checkup for individual agent users. Zero dependencies, 28 rules inc... |
+| [aalbata/machine-learning-for-cybersecurity](https://github.com/aalbata/machine-learning-for-cybersecurity) | 20 | Jupyter Notebook | A free course on machine learning for cybersecurity and the security of machine learning, with le... |
+| [irraz/vulnerator-ai](https://github.com/irraz/vulnerator-ai) | 16 | Python | Autonomous OODA-loop pentesting agent. Hermes brain, Kali + Playwright tools over MCP, ATT&CK as ... |
 
 ## 🐹 Go Projects
 
 | Repo | ⭐ Stars | Language | Description |
 |---|---|---|---|
-| [init-co-jp/diff-tour](https://github.com/init-co-jp/diff-tour) | 44 | Go | Walk through a diff the way a senior engineer reads it. A read-only TUI that turns a git change i... |
-| [JohnWatsoon/WatTunnel](https://github.com/JohnWatsoon/WatTunnel) | 34 | Go | Fast, encrypted TCP/UDP tunnel that keeps working when the network only lets ping through. ICMP, ... |
-| [masaleem-oss/Fengard](https://github.com/masaleem-oss/Fengard) | 33 | Go | Kernel-enforced firewall and DNS filtering for any OpenWrt router. Parental controls, ad blocking... |
-| [vmaltarello/whyd](https://github.com/vmaltarello/whyd) | 27 | Go | Find out why your Linux PC froze, crashed or shut down: whyd reads the journal of the previous bo... |
-| [Convex-Works/tide](https://github.com/Convex-Works/tide) | 26 | Go | 🌊 Simple, self-hostable video conference service. One Go binary with a built-in media server, ser... |
-| [yoanbernabeu/skillcrew](https://github.com/yoanbernabeu/skillcrew) | 21 | Go | One skill registry for your whole team, in every AI coding agent, always up to date. |
-| [oneo-me/onevra](https://github.com/oneo-me/onevra) | 19 | Go | Native desktop UI components for Go, built on MyGo. Themed controls, window shells, Lucide icons,... |
-| [rafid-dev/taillaunch](https://github.com/rafid-dev/taillaunch) | 17 | Go | A lightweight browser wrapper for private Tailscale apps — no full VPN client, no system-wide net... |
+| [feder-cr/git-ai](https://github.com/feder-cr/git-ai) | 2,410 | Go | Git designed for AI agents. |
+| [azrinaldi/gemini-stealth-bridge](https://github.com/azrinaldi/gemini-stealth-bridge) | 98 | Go | Browserless Chrome uTLS + HTTP/2 OpenAI-compatible API daemon for Google Gemini Web (/v1/chat/com... |
+| [cryptoangelito/DocKit](https://github.com/cryptoangelito/DocKit) | 64 | Go | Бесплатная программа для самозанятых: счета и акты в PDF, клиенты и история. Windows 10/11, Go, F... |
+| [wangwanjie/gately](https://github.com/wangwanjie/gately) | 37 | Go | Open-source, auditable network gateway toolkit: DDNS, STUN traversal, port forwarding, reverse pr... |
+| [skibid991/httpresponder.com](https://github.com/skibid991/httpresponder.com) | 21 | Go | Free HTTP request and response testing API. Decode base64 from a URL, echo requests, return custo... |
+| [WhitenWhiten/topophany](https://github.com/WhitenWhiten/topophany) | 20 | Go | Self-hosted network topology and service availability monitoring with a terminal UI — single Go b... |
+| [theorchestradev/orchestra](https://github.com/theorchestradev/orchestra) | 18 | Go | A desktop app for running coding agents side by side in project-based terminal sessions. |
+| [tetriz-ai/tetriz-harness](https://github.com/tetriz-ai/tetriz-harness) | 18 | Go | Recommend AI coding harness changes from repository context and coding signals, then distribute a... |
 
 ## 🛠️ Developer Tools & CLI
 
 | Repo | ⭐ Stars | Language | Description |
 |---|---|---|---|
-| [franzenzenhofer/big-arrow-on-the-screen](https://github.com/franzenzenhofer/big-arrow-on-the-screen) | 661 | Swift | Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-through, g... |
-| [Atoll92/agent-standup](https://github.com/Atoll92/agent-standup) | 147 | HTML | Your Claude Code and Codex sessions as a live, animated team call: who is working, who waits on w... |
-| [iamumeransari/claude-show-your-work](https://github.com/iamumeransari/claude-show-your-work) | 146 | TypeScript | Claude Code shows images and plays videos right in your terminal: screenshots, Playwright recordi... |
-| [HeyCubit/effortless](https://github.com/HeyCubit/effortless) | 140 | HTML | Claude Code mod: picks the reasoning effort for every prompt, shows the prompt cache and context,... |
-| [pullboard-dev/pullboard](https://github.com/pullboard-dev/pullboard) | 105 | JavaScript | Autonomous development for real products. Agents build from the spec you approve, and nothing shi... |
-| [YOU-SHOULD-KNOW-ME/antigrative-dashboard](https://github.com/YOU-SHOULD-KNOW-ME/antigrative-dashboard) | 92 | JavaScript | Inline Antigravity dashboard: tok/s, DSH-style cache hit rate, five-hour and weekly quotas. Engli... |
-| [mcpdelta/mcpdelta](https://github.com/mcpdelta/mcpdelta) | 80 | — | Delta MCP is a free app that sits between your AI apps and their MCP servers: one program per tas... |
-| [AI-BizOS/cross-harness](https://github.com/AI-BizOS/cross-harness) | 77 | JavaScript | Open cross-harness protocol with terminal and local web interfaces |
+| [Graphicle-AI/graphicle](https://github.com/Graphicle-AI/graphicle) | 314 | Rust | Code graph and memory for your coding agents, in one Rust program. For Claude Code, Codex, Cursor... |
+| [Entelligence-AI/agentplay](https://github.com/Entelligence-AI/agentplay) | 260 | Python | Replay your coding agent sessions as a map and a timeline |
+| [fzn0x/idx](https://github.com/fzn0x/idx) | 148 | Rust | Analyze the Indonesian stock market (IDX/IHSG) from web terminal, CLI, or any AI agents via MCP s... |
+| [zephyr4123/speakmore](https://github.com/zephyr4123/speakmore) | 108 | JavaScript | SpeakMore：免费开源的语音输入，Mac 和 Windows 都支持。模型任你接（Gemini、OpenAI、通义千问、DeepSeek、Kimi、智谱 GLM、MiniMax 或任何 O... |
+| [slide-ng/slide.ng](https://github.com/slide-ng/slide.ng) | 87 | TypeScript | Slidev-style presentations written in markdown, compiled with Angular. The core app and the slide... |
+| [ShadowSwaps/REA-Reconstruction-Companion](https://github.com/ShadowSwaps/REA-Reconstruction-Companion) | 82 | JavaScript | Open-source, model-independent Agent Skill for evidence-based software reconstruction with REA. O... |
+| [vukkt/iglass](https://github.com/vukkt/iglass) | 79 | Shell | A Liquid Glass–inspired theme for iTerm2, Ghostty and kitty, on macOS and Linux. Real Liquid Glas... |
+| [vakandi/opencode-rust](https://github.com/vakandi/opencode-rust) | 73 | Rust | The open source AI coding agent, in Rust. CLI, TUI and HTTP server for local AI agents — no Docke... |
 
 ## ⚙️ DevOps & Infrastructure
 
 | Repo | ⭐ Stars | Language | Description |
 |---|---|---|---|
-| [SerfDiscriminate/Seo-Guard](https://github.com/SerfDiscriminate/Seo-Guard) | 12 | Python | Automated technical SEO auditing tool to detect website issues and prevent SEO regressions. |
-| [ivankupach/fullstack-interview-questions](https://github.com/ivankupach/fullstack-interview-questions) | 12 | Mermaid | 800+ fullstack interview questions & answers with code and diagrams: JavaScript, TypeScript, Reac... |
-| [baadaldev/env-doctor](https://github.com/baadaldev/env-doctor) | 7 | Python | The zero-dependency developer environment & dependency health diagnoser CLI |
-| [JoePittsy/azswap](https://github.com/JoePittsy/azswap) | 5 | PowerShell | Isolated Azure CLI (az) profiles for PowerShell: switch tenants, accounts and subscriptions per t... |
-| [dharmendradevops11/the-self-healing-pipeline](https://github.com/dharmendradevops11/the-self-healing-pipeline) | 4 | Python | Companion code for the book The Self-Healing Pipeline: How I Taught My CI/CD Pipeline to Fix Itse... |
-| [0xklen/money-machine](https://github.com/0xklen/money-machine) | 4 | Python | A thousand skills for AI agents that build money machines — pricing, payments, revenue ops, crypt... |
-| [dcotecnologia/kubescope](https://github.com/dcotecnologia/kubescope) | 4 | Python | Read-only desktop viewer for Kubernetes workloads on Amazon EKS, Google GKE and Azure AKS, built ... |
-| [HarnageaGabriel/trasloco](https://github.com/HarnageaGabriel/trasloco) | 3 | Go | An open-source tool, in the making, to move CI/CD pipelines between Azure DevOps, GitHub and more... |
+| [Adilmunawar/ARGUS](https://github.com/Adilmunawar/ARGUS) | 8 | JavaScript | Open source sovereign private cloud blueprint that replaces AWS on hardware you own. Windows Serv... |
+| [mikhailsemenovykh18-rgb/vps-director](https://github.com/mikhailsemenovykh18-rgb/vps-director) | 6 | Python | Your servers in your pocket: a Telegram bot + Mini App that watches your VPS without AI, opens a ... |
+| [softberries/ramzes](https://github.com/softberries/ramzes) | 5 | Rust | Self-hosted notification router: one endpoint for your services' events, routes that decide who i... |
+| [brixdorf/devops-labs](https://github.com/brixdorf/devops-labs) | 5 | JavaScript | Self-hosted DevOps practice labs with a real Linux terminal in your browser. 64 hands-on labs acr... |
+| [lisbeth718/ops-kit](https://github.com/lisbeth718/ops-kit) | 4 | Shell | Small bash scripts for watching a few Docker servers. Cron + one webhook, no agent, no dashboard |
+| [adiprmx/atlys](https://github.com/adiprmx/atlys) | 4 | JavaScript | A curated collection of 47 skills for AI coding agents — design, writing, engineering. |
+| [PT-Perkasa-Pilar-Utama/monita](https://github.com/PT-Perkasa-Pilar-Utama/monita) | 3 | Rust | Site reliability for every project your team ships. Self-hosted uptime checks, cron heartbeats, i... |
+| [visparashar/permforge](https://github.com/visparashar/permforge) | 3 | TypeScript | The Complete Salesforce Profile to Permission Set & PSG Migration Engine with 100% access parity ... |
 
 <!-- TRENDING:END -->
 
