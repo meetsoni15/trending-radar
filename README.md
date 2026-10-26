@@ -18,87 +18,87 @@ Categories tracked:
 Want a category added or removed? Edit `categories` in [scripts/update_trending.go](scripts/update_trending.go).
 
 <!-- TRENDING:START -->
-_Last updated: **2026-10-19** (UTC) · repos created in the last 7 days_
+_Last updated: **2026-10-26** (UTC) · repos created in the last 7 days_
 
 ## 🔥 New This Week (overall)
 
 | Repo | ⭐ Stars | Language | Description |
 |---|---|---|---|
-| [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) | 4,022 | Java | Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home. |
-| [Arekejoker/qwen21-nsfw-pose-skill](https://github.com/Arekejoker/qwen21-nsfw-pose-skill) | 3,337 | Python | Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / ... |
-| [feder-cr/git-ai](https://github.com/feder-cr/git-ai) | 2,410 | Go | Git designed for AI agents. |
-| [HeyPuter/everything](https://github.com/HeyPuter/everything) | 2,301 | JavaScript | We're rebuilding and open-sourcing the world’s software from scratch. |
-| [ahwootech/BRUTAL](https://github.com/ahwootech/BRUTAL) | 1,958 | C# | A free, open source C# framework for making games, or your own game engine. Direct access to nati... |
-| [chenglou/handwired](https://github.com/chenglou/handwired) | 1,787 | TypeScript | Turn your regular JavaScript code into a neural net. |
-| [Supermedo/uncharted_pc](https://github.com/Supermedo/uncharted_pc) | 1,521 | C++ | Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo |
-| [ly05010419/MacNativeGames](https://github.com/ly05010419/MacNativeGames) | 1,474 | C |  |
-| [Leonxlnx/earshot](https://github.com/Leonxlnx/earshot) | 1,328 | Python | Ears for coding agents: let AI hear, review and make sound. CPU-only, open source. |
-| [Caho1/open-claude-ui](https://github.com/Caho1/open-claude-ui) | 1,242 | TypeScript | 基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析手册。 |
+| [pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv) | 5,958 | Kotlin | 给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and ot... |
+| [JustAResearcher/gpu-unlock-ada](https://github.com/JustAResearcher/gpu-unlock-ada) | 3,648 | C | GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally |
+| [wesbos/3d-model-anything](https://github.com/wesbos/3d-model-anything) | 2,033 | Swift | Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser. |
+| [xevrion/hatchzip](https://github.com/xevrion/hatchzip) | 2,016 | Rust | HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP,... |
+| [Jakeschincariol/day-trader-skill](https://github.com/Jakeschincariol/day-trader-skill) | 1,932 | Python | 11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry... |
+| [ikow/php2shell-poc](https://github.com/ikow/php2shell-poc) | 1,823 | Python | CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP sessi... |
+| [rddmwmddr/android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner) | 1,699 | Python | 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。 |
+| [oosexgang/hackios-xnu-kernel](https://github.com/oosexgang/hackios-xnu-kernel) | 1,607 | C |  |
+| [9bie/php2shell-bypass-aslr-exp](https://github.com/9bie/php2shell-bypass-aslr-exp) | 1,469 | Python | A php2shell exploit that requires no modifications to the official version, and does not require ... |
+| [designfuchen/word-atlas](https://github.com/designfuchen/word-atlas) | 1,464 | TypeScript | 词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Ope... |
 
 ## 🤖 AI Agents & LLM Tools
 
 | Repo | ⭐ Stars | Language | Description |
 |---|---|---|---|
-| [feder-cr/git-ai](https://github.com/feder-cr/git-ai) | 2,410 | Go | Git designed for AI agents. |
-| [Leonxlnx/earshot](https://github.com/Leonxlnx/earshot) | 1,328 | Python | Ears for coding agents: let AI hear, review and make sound. CPU-only, open source. |
-| [Zfinix/eleven](https://github.com/Zfinix/eleven) | 785 | TypeScript | Agent-first reverse engineering for macOS, Windows and Linux: any ACP agent reads, renames and pa... |
-| [i12bp8/decomp.wtf](https://github.com/i12bp8/decomp.wtf) | 506 | Python | What The Function: your AI agent decompiles games you own into C that compiles to the exact same ... |
-| [heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit](https://github.com/heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit) | 425 | Python | AI 跨境电商运营智能体工具箱 · 把运营 SOP 拆成 7 个可复用的 AI Agent 工作流，含 Prompt、模板与真实案例 |
-| [Graphicle-AI/graphicle](https://github.com/Graphicle-AI/graphicle) | 314 | Rust | Code graph and memory for your coding agents, in one Rust program. For Claude Code, Codex, Cursor... |
-| [EL4CTEO/blender-skills](https://github.com/EL4CTEO/blender-skills) | 269 | Python | Professional Blender 5.2 workflows as Agent Skills for Claude Code, Codex, Gemini CLI, Copilot an... |
-| [justxor/deepseek-local-guide-ru](https://github.com/justxor/deepseek-local-guide-ru) | 110 | Shell | 🐋 Полный гайд на русском: как установить и запустить DeepSeek локально (V4, R1) на ПК, Mac и серв... |
+| [Charonyuu/whatsmyagentdoing](https://github.com/Charonyuu/whatsmyagentdoing) | 247 | JavaScript | See what every Claude Code and Codex agent on your machine is doing — live, in a little office. |
+| [xingjian-bai/opal](https://github.com/xingjian-bai/opal) | 213 | Python | OPAL: a reactive optimizer. A coding agent rewrites the optimizer while your model trains. |
+| [Cattmonkey/ChaosIntelligence](https://github.com/Cattmonkey/ChaosIntelligence) | 181 | Python | 把智能体当函数，把想法写成程序。Agent-native functional language with a CLI, Web IDE, goal-driven bots and live U... |
+| [Zafer-Liu/claude-super-sidebar](https://github.com/Zafer-Liu/claude-super-sidebar) | 155 | JavaScript | A visual sidebar for Claude Code and Codex: agent trees, live status, and conversation task flows. |
+| [Monopoly0024/simple-reviewer-v1](https://github.com/Monopoly0024/simple-reviewer-v1) | 135 | Python | Simple Reviewer: a Codex skill for AI-assisted coding and Vibe Coding. Explain code, visualize wo... |
+| [mokevnin/dev-quality-gates](https://github.com/mokevnin/dev-quality-gates) | 119 | Python | An opinionated, curated list of tools for enforcing software development standards: one recommend... |
+| [stockedge/manga-generator](https://github.com/stockedge/manga-generator) | 117 | JavaScript | 原作から脚本・画像生成・組版・PDF出力まで進める、Codex向け漫画制作ツール |
+| [YOLOW92/pagesift](https://github.com/YOLOW92/pagesift) | 96 | Rust | High-performance, memory-efficient Rust web crawler & content extraction engine for AI agents and... |
 
 ## 🛡️ Security, Hacking & Pentesting
 
 | Repo | ⭐ Stars | Language | Description |
 |---|---|---|---|
-| [Fazmin/cve-intel](https://github.com/Fazmin/cve-intel) | 64 | Rust | Local security intelligence for CVE triage - 34 tools, 25 sources, risk scores and an MCP server ... |
-| [JoasASantos/Malvex](https://github.com/JoasASantos/Malvex) | 28 | Rust | AI-driven malware analysis framework with 30+ integrated tools, web REPL, and MCP server |
-| [kamalx06/TornadoC2](https://github.com/kamalx06/TornadoC2) | 28 | Python | Pull-based C2 framework with ten native transports, concurrent multi-profile handlers, and end-to... |
-| [opentrap/opentrap](https://github.com/opentrap/opentrap) | 24 | Java | Open-source web security testing suite built around an intercepting proxy. Crawl, intercept, repl... |
-| [shaheeryasirofficial/Cuban-Eight](https://github.com/shaheeryasirofficial/Cuban-Eight) | 23 | C | Cuban Eight is a red team tool that packages a Windows PE payload into a .wsl file spoofing a rea... |
-| [tiangang0245/MCP-checkup](https://github.com/tiangang0245/MCP-checkup) | 21 | Python | Offline, read-only MCP config checkup for individual agent users. Zero dependencies, 28 rules inc... |
-| [aalbata/machine-learning-for-cybersecurity](https://github.com/aalbata/machine-learning-for-cybersecurity) | 20 | Jupyter Notebook | A free course on machine learning for cybersecurity and the security of machine learning, with le... |
-| [irraz/vulnerator-ai](https://github.com/irraz/vulnerator-ai) | 16 | Python | Autonomous OODA-loop pentesting agent. Hermes brain, Kali + Playwright tools over MCP, ATT&CK as ... |
+| [hevnsnt/CVEngine](https://github.com/hevnsnt/CVEngine) | 321 | Python | AI-first external attack surface assessment with continuous discovery, evidence-based vulnerabili... |
+| [syhunt/php2shell-protection](https://github.com/syhunt/php2shell-protection) | 115 | PHP | Defensive mitigation and testing toolkit for PHP security vulnerabilities (CVE-2026-109618, CVE-2... |
+| [hassan-algo/open-sesame](https://github.com/hassan-algo/open-sesame) | 95 | HTML | 🔓 An AI web-pentest skill for Claude Code. Point it at a site you're authorized to test — it maps... |
+| [thomasunise/argus](https://github.com/thomasunise/argus) | 94 | Python | Open-source agentic security operations platform: |
+| [UCYBERS/PhoneHackScan](https://github.com/UCYBERS/PhoneHackScan) | 82 | Python | Android & iPhone intrusion check |
+| [pentestershell/php2shellbt](https://github.com/pentestershell/php2shellbt) | 73 | Python | Python scanner for CVE-2026-109618, CVE-2026-109619 and the php2shell session chains (handler mis... |
+| [Ymirczar/rust-rpocket-team-treasure-tracker](https://github.com/Ymirczar/rust-rpocket-team-treasure-tracker) | 54 | — | Ultimate Rust Hack Suite 2026 - Modding & Visuals for Rust Game |
+| [freyrswift/UaStation](https://github.com/freyrswift/UaStation) | 33 | C++ | One-click prompt and skill installer for 15 AI coding tools. Single exe, zero dependencies. |
 
 ## 🐹 Go Projects
 
 | Repo | ⭐ Stars | Language | Description |
 |---|---|---|---|
-| [feder-cr/git-ai](https://github.com/feder-cr/git-ai) | 2,410 | Go | Git designed for AI agents. |
-| [azrinaldi/gemini-stealth-bridge](https://github.com/azrinaldi/gemini-stealth-bridge) | 98 | Go | Browserless Chrome uTLS + HTTP/2 OpenAI-compatible API daemon for Google Gemini Web (/v1/chat/com... |
-| [cryptoangelito/DocKit](https://github.com/cryptoangelito/DocKit) | 64 | Go | Бесплатная программа для самозанятых: счета и акты в PDF, клиенты и история. Windows 10/11, Go, F... |
-| [wangwanjie/gately](https://github.com/wangwanjie/gately) | 37 | Go | Open-source, auditable network gateway toolkit: DDNS, STUN traversal, port forwarding, reverse pr... |
-| [skibid991/httpresponder.com](https://github.com/skibid991/httpresponder.com) | 21 | Go | Free HTTP request and response testing API. Decode base64 from a URL, echo requests, return custo... |
-| [WhitenWhiten/topophany](https://github.com/WhitenWhiten/topophany) | 20 | Go | Self-hosted network topology and service availability monitoring with a terminal UI — single Go b... |
-| [theorchestradev/orchestra](https://github.com/theorchestradev/orchestra) | 18 | Go | A desktop app for running coding agents side by side in project-based terminal sessions. |
-| [tetriz-ai/tetriz-harness](https://github.com/tetriz-ai/tetriz-harness) | 18 | Go | Recommend AI coding harness changes from repository context and coding signals, then distribute a... |
+| [tractordev/webframe](https://github.com/tractordev/webframe) | 129 | Go | Run a web page like a program |
+| [Shaitrish/37studio](https://github.com/Shaitrish/37studio) | 70 | Go | Open-source AI alternative to Buffer and Opus Clip: Claude Code makes on-brand videos, posts them... |
+| [BastionPHP/Bastion](https://github.com/BastionPHP/Bastion) | 57 | Go | Evidence-based PHP security assessment: patch verification, intrusion tracing, and offline reports. |
+| [iCookCloud/wecom-inbox](https://github.com/iCookCloud/wecom-inbox) | 41 | Go | Self-hosted inbox for WeCom bots and WeChat customer service: durable files, searchable records, ... |
+| [jaba0x/SwitchDesk](https://github.com/jaba0x/SwitchDesk) | 36 | Go | Desktop app for monitoring and managing Aruba switches over SSH: dashboard, STP checks, VLANs, LL... |
+| [fikrilal/agy-auth](https://github.com/fikrilal/agy-auth) | 30 | Go | Multi-account switcher for Google Antigravity CLI (agy) |
+| [ahyield/eze](https://github.com/ahyield/eze) | 21 | Go | Self-hosted private websites for your team. Upload a folder of HTML and get a link only your cowo... |
+| [Clash-Projects/LastWave-Jam](https://github.com/Clash-Projects/LastWave-Jam) | 19 | Go | High-performance, low-latency sync & in-room chat server for LastWave |
 
 ## 🛠️ Developer Tools & CLI
 
 | Repo | ⭐ Stars | Language | Description |
 |---|---|---|---|
-| [Graphicle-AI/graphicle](https://github.com/Graphicle-AI/graphicle) | 314 | Rust | Code graph and memory for your coding agents, in one Rust program. For Claude Code, Codex, Cursor... |
-| [Entelligence-AI/agentplay](https://github.com/Entelligence-AI/agentplay) | 260 | Python | Replay your coding agent sessions as a map and a timeline |
-| [fzn0x/idx](https://github.com/fzn0x/idx) | 148 | Rust | Analyze the Indonesian stock market (IDX/IHSG) from web terminal, CLI, or any AI agents via MCP s... |
-| [zephyr4123/speakmore](https://github.com/zephyr4123/speakmore) | 108 | JavaScript | SpeakMore：免费开源的语音输入，Mac 和 Windows 都支持。模型任你接（Gemini、OpenAI、通义千问、DeepSeek、Kimi、智谱 GLM、MiniMax 或任何 O... |
-| [slide-ng/slide.ng](https://github.com/slide-ng/slide.ng) | 87 | TypeScript | Slidev-style presentations written in markdown, compiled with Angular. The core app and the slide... |
-| [ShadowSwaps/REA-Reconstruction-Companion](https://github.com/ShadowSwaps/REA-Reconstruction-Companion) | 82 | JavaScript | Open-source, model-independent Agent Skill for evidence-based software reconstruction with REA. O... |
-| [vukkt/iglass](https://github.com/vukkt/iglass) | 79 | Shell | A Liquid Glass–inspired theme for iTerm2, Ghostty and kitty, on macOS and Linux. Real Liquid Glas... |
-| [vakandi/opencode-rust](https://github.com/vakandi/opencode-rust) | 73 | Rust | The open source AI coding agent, in Rust. CLI, TUI and HTTP server for local AI agents — no Docke... |
+| [xevrion/hatchzip](https://github.com/xevrion/hatchzip) | 2,016 | Rust | HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP,... |
+| [Cattmonkey/ChaosIntelligence](https://github.com/Cattmonkey/ChaosIntelligence) | 181 | Python | 把智能体当函数，把想法写成程序。Agent-native functional language with a CLI, Web IDE, goal-driven bots and live U... |
+| [jadezane6634-ops/dsh-purge-flash](https://github.com/jadezane6634-ops/dsh-purge-flash) | 175 | JavaScript | DSH稳定高效的破甲插件： 常驻1,597token +零宿主补丁（可与dsh-purge共存）+ 三层技能路由+ 分级 prefill + 拒答自我强化阶梯+ finish_reason 四路... |
+| [Zafer-Liu/claude-super-sidebar](https://github.com/Zafer-Liu/claude-super-sidebar) | 155 | JavaScript | A visual sidebar for Claude Code and Codex: agent trees, live status, and conversation task flows. |
+| [l0ng-ai/openidea](https://github.com/l0ng-ai/openidea) | 154 | TypeScript | The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere... |
+| [winnin/farol](https://github.com/winnin/farol) | 133 | TypeScript | Know the risk of merging a pull request, and where it lives. Free, open-source CLI and GitHub Act... |
+| [danisiber/rom-cli](https://github.com/danisiber/rom-cli) | 120 | Python | Terminal CLI to search and download ROMs, ISOs and Switch games. Interactive Textual UI, cross-pl... |
+| [mokevnin/dev-quality-gates](https://github.com/mokevnin/dev-quality-gates) | 119 | Python | An opinionated, curated list of tools for enforcing software development standards: one recommend... |
 
 ## ⚙️ DevOps & Infrastructure
 
 | Repo | ⭐ Stars | Language | Description |
 |---|---|---|---|
-| [Adilmunawar/ARGUS](https://github.com/Adilmunawar/ARGUS) | 8 | JavaScript | Open source sovereign private cloud blueprint that replaces AWS on hardware you own. Windows Serv... |
-| [mikhailsemenovykh18-rgb/vps-director](https://github.com/mikhailsemenovykh18-rgb/vps-director) | 6 | Python | Your servers in your pocket: a Telegram bot + Mini App that watches your VPS without AI, opens a ... |
-| [softberries/ramzes](https://github.com/softberries/ramzes) | 5 | Rust | Self-hosted notification router: one endpoint for your services' events, routes that decide who i... |
-| [brixdorf/devops-labs](https://github.com/brixdorf/devops-labs) | 5 | JavaScript | Self-hosted DevOps practice labs with a real Linux terminal in your browser. 64 hands-on labs acr... |
-| [lisbeth718/ops-kit](https://github.com/lisbeth718/ops-kit) | 4 | Shell | Small bash scripts for watching a few Docker servers. Cron + one webhook, no agent, no dashboard |
-| [adiprmx/atlys](https://github.com/adiprmx/atlys) | 4 | JavaScript | A curated collection of 47 skills for AI coding agents — design, writing, engineering. |
-| [PT-Perkasa-Pilar-Utama/monita](https://github.com/PT-Perkasa-Pilar-Utama/monita) | 3 | Rust | Site reliability for every project your team ships. Self-hosted uptime checks, cron heartbeats, i... |
-| [visparashar/permforge](https://github.com/visparashar/permforge) | 3 | TypeScript | The Complete Salesforce Profile to Permission Set & PSG Migration Engine with 100% access parity ... |
+| [XZaganev/rpocket-team-deadlock-counterpicker](https://github.com/XZaganev/rpocket-team-deadlock-counterpicker) | 54 | — | Advanced Deadlock Counter Item Build Guide 2026 |
+| [codician-team/diffinery](https://github.com/codician-team/diffinery) | 34 | TypeScript | Open-source, agent-first GitHub and GitHub Actions alternative that runs on your own Cloudflare a... |
+| [golbin/rekey](https://github.com/golbin/rekey) | 33 | Python | Reissue an API key with one command and update it everywhere it is used (1Password + templates) |
+| [Helesdragon51668/rpocket-team-deadlock-counterpicker](https://github.com/Helesdragon51668/rpocket-team-deadlock-counterpicker) | 32 | HTML | Advanced Deadlock Counter Item Build Guide 2026 |
+| [mountain-beaver/vps-forge](https://github.com/mountain-beaver/vps-forge) | 29 | Shell | Agent Skill that lets Claude Code, Codex, Cursor, Copilot and other AI agents set up and harden a... |
+| [k8s-servant/k8s-skills](https://github.com/k8s-servant/k8s-skills) | 24 | Shell | Read-only Kubernetes troubleshooting skills for Claude Code, Codex, Gemini CLI and Copilot. Each ... |
+| [euron-sde-team/euron-video-system](https://github.com/euron-sde-team/euron-video-system) | 20 | TypeScript | Self-hosted video transcoding and encrypted HLS delivery: FFmpeg ABR ladders on EC2 Spot, per-vid... |
+| [Amine-LG/RootToRun](https://github.com/Amine-LG/RootToRun) | 12 | TypeScript | Free, open-source learning environment for Linux, containers, Kubernetes and OpenShift: real comm... |
 
 <!-- TRENDING:END -->
 
